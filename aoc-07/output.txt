@@ -1,0 +1,1939 @@
+[32m2022-12-07 21:20:42.260[0m [33mStarting [aoc-07], [test=false, part1=true]...[0m
+[32m2022-12-07 21:20:42.261[0m [33mReading file: input.txt ...[0m
+Line: [$ cd /]
+new dir: /, depth:0
+Line: [$ ls]
+Line: [dir fcqv]
+Dir [/]: Add fcqv/
+Line: [dir fcv]
+Dir [/]: Add fcv/
+Line: [72939 hdpgfcwd]
+Dir: [/]: Add 72939 bytes = 72939
+Line: [236918 jlncjqh.csz]
+Dir: [/]: Add 236918 bytes = 309857
+Line: [dir jvwfwrg]
+Dir [/]: Add jvwfwrg/
+Line: [dir tzwpllhq]
+Dir [/]: Add tzwpllhq/
+Line: [dir vglf]
+Dir [/]: Add vglf/
+Line: [28586 wzljr.zvp]
+Dir: [/]: Add 28586 bytes = 338443
+Line: [$ cd fcqv]
+new dir: /fcqv, depth:1
+Line: [$ ls]
+Line: [dir fhg]
+Dir [/fcqv]: Add fhg/
+Line: [277152 qldfrhm.qnr]
+Dir: [/fcqv]: Add 277152 bytes = 277152
+Line: [269351 qsd]
+Dir: [/fcqv]: Add 269351 bytes = 546503
+Line: [dir thbb]
+Dir [/fcqv]: Add thbb/
+Line: [$ cd fhg]
+new dir: /fcqv/fhg, depth:2
+Line: [$ ls]
+Line: [dir jljrdvw]
+Dir [/fcqv/fhg]: Add jljrdvw/
+Line: [$ cd jljrdvw]
+new dir: /fcqv/fhg/jljrdvw, depth:3
+Line: [$ ls]
+Line: [101940 vsvgjg.tpn]
+Dir: [/fcqv/fhg/jljrdvw]: Add 101940 bytes = 101940
+Line: [$ cd ..]
+new dir: /fcqv/fhg, depth:2
+Line: [$ cd ..]
+new dir: /fcqv, depth:1
+Line: [$ cd thbb]
+new dir: /fcqv/thbb, depth:2
+Line: [$ ls]
+Line: [144311 cchngzcc.lcd]
+Dir: [/fcqv/thbb]: Add 144311 bytes = 144311
+Line: [178246 fbsj.wtl]
+Dir: [/fcqv/thbb]: Add 178246 bytes = 322557
+Line: [48521 gfsqtssb.vtg]
+Dir: [/fcqv/thbb]: Add 48521 bytes = 371078
+Line: [284713 jwl.hll]
+Dir: [/fcqv/thbb]: Add 284713 bytes = 655791
+Line: [96717 wdqqqv.pcr]
+Dir: [/fcqv/thbb]: Add 96717 bytes = 752508
+Line: [$ cd ..]
+new dir: /fcqv, depth:1
+Line: [$ cd ..]
+new dir: /, depth:0
+Line: [$ cd fcv]
+new dir: /fcv, depth:1
+Line: [$ ls]
+Line: [dir ffhwwg]
+Dir [/fcv]: Add ffhwwg/
+Line: [275505 fprcz.hrd]
+Dir: [/fcv]: Add 275505 bytes = 275505
+Line: [179689 jwn]
+Dir: [/fcv]: Add 179689 bytes = 455194
+Line: [69265 tfnws.drt]
+Dir: [/fcv]: Add 69265 bytes = 524459
+Line: [38365 twvt.dbs]
+Dir: [/fcv]: Add 38365 bytes = 562824
+Line: [dir vcqsrw]
+Dir [/fcv]: Add vcqsrw/
+Line: [247592 zldbq]
+Dir: [/fcv]: Add 247592 bytes = 810416
+Line: [dir znzpm]
+Dir [/fcv]: Add znzpm/
+Line: [$ cd ffhwwg]
+new dir: /fcv/ffhwwg, depth:2
+Line: [$ ls]
+Line: [dir hlqf]
+Dir [/fcv/ffhwwg]: Add hlqf/
+Line: [$ cd hlqf]
+new dir: /fcv/ffhwwg/hlqf, depth:3
+Line: [$ ls]
+Line: [30443 vrdbrwp.dss]
+Dir: [/fcv/ffhwwg/hlqf]: Add 30443 bytes = 30443
+Line: [$ cd ..]
+new dir: /fcv/ffhwwg, depth:2
+Line: [$ cd ..]
+new dir: /fcv, depth:1
+Line: [$ cd vcqsrw]
+new dir: /fcv/vcqsrw, depth:2
+Line: [$ ls]
+Line: [dir bzlnsjmv]
+Dir [/fcv/vcqsrw]: Add bzlnsjmv/
+Line: [dir rvbtnz]
+Dir [/fcv/vcqsrw]: Add rvbtnz/
+Line: [224487 slr]
+Dir: [/fcv/vcqsrw]: Add 224487 bytes = 224487
+Line: [255340 vrdbrwp.dss]
+Dir: [/fcv/vcqsrw]: Add 255340 bytes = 479827
+Line: [$ cd bzlnsjmv]
+new dir: /fcv/vcqsrw/bzlnsjmv, depth:3
+Line: [$ ls]
+Line: [272548 qwqlzvzv]
+Dir: [/fcv/vcqsrw/bzlnsjmv]: Add 272548 bytes = 272548
+Line: [$ cd ..]
+new dir: /fcv/vcqsrw, depth:2
+Line: [$ cd rvbtnz]
+new dir: /fcv/vcqsrw/rvbtnz, depth:3
+Line: [$ ls]
+Line: [165670 jwl.lhn]
+Dir: [/fcv/vcqsrw/rvbtnz]: Add 165670 bytes = 165670
+Line: [$ cd ..]
+new dir: /fcv/vcqsrw, depth:2
+Line: [$ cd ..]
+new dir: /fcv, depth:1
+Line: [$ cd znzpm]
+new dir: /fcv/znzpm, depth:2
+Line: [$ ls]
+Line: [dir mjwnsw]
+Dir [/fcv/znzpm]: Add mjwnsw/
+Line: [$ cd mjwnsw]
+new dir: /fcv/znzpm/mjwnsw, depth:3
+Line: [$ ls]
+Line: [219638 bzcb]
+Dir: [/fcv/znzpm/mjwnsw]: Add 219638 bytes = 219638
+Line: [$ cd ..]
+new dir: /fcv/znzpm, depth:2
+Line: [$ cd ..]
+new dir: /fcv, depth:1
+Line: [$ cd ..]
+new dir: /, depth:0
+Line: [$ cd jvwfwrg]
+new dir: /jvwfwrg, depth:1
+Line: [$ ls]
+Line: [dir ffhwwg]
+Dir [/jvwfwrg]: Add ffhwwg/
+Line: [42104 hmphb.qvq]
+Dir: [/jvwfwrg]: Add 42104 bytes = 42104
+Line: [dir hzjpg]
+Dir [/jvwfwrg]: Add hzjpg/
+Line: [dir jwl]
+Dir [/jvwfwrg]: Add jwl/
+Line: [dir nmz]
+Dir [/jvwfwrg]: Add nmz/
+Line: [243217 qldfrhm.rws]
+Dir: [/jvwfwrg]: Add 243217 bytes = 285321
+Line: [dir tdjtv]
+Dir [/jvwfwrg]: Add tdjtv/
+Line: [dir wdn]
+Dir [/jvwfwrg]: Add wdn/
+Line: [$ cd ffhwwg]
+new dir: /jvwfwrg/ffhwwg, depth:2
+Line: [$ ls]
+Line: [179995 hcbf.dhw]
+Dir: [/jvwfwrg/ffhwwg]: Add 179995 bytes = 179995
+Line: [176263 lgssjp.mnl]
+Dir: [/jvwfwrg/ffhwwg]: Add 176263 bytes = 356258
+Line: [$ cd ..]
+new dir: /jvwfwrg, depth:1
+Line: [$ cd hzjpg]
+new dir: /jvwfwrg/hzjpg, depth:2
+Line: [$ ls]
+Line: [241535 ddlcslcs.zjh]
+Dir: [/jvwfwrg/hzjpg]: Add 241535 bytes = 241535
+Line: [dir ddrwfq]
+Dir [/jvwfwrg/hzjpg]: Add ddrwfq/
+Line: [dir mqwww]
+Dir [/jvwfwrg/hzjpg]: Add mqwww/
+Line: [29329 qwqlzvzv]
+Dir: [/jvwfwrg/hzjpg]: Add 29329 bytes = 270864
+Line: [91380 vrdbrwp.dss]
+Dir: [/jvwfwrg/hzjpg]: Add 91380 bytes = 362244
+Line: [dir wctwz]
+Dir [/jvwfwrg/hzjpg]: Add wctwz/
+Line: [210633 wdqqqv.pcr]
+Dir: [/jvwfwrg/hzjpg]: Add 210633 bytes = 572877
+Line: [dir wlrmbtdg]
+Dir [/jvwfwrg/hzjpg]: Add wlrmbtdg/
+Line: [172051 zldbq]
+Dir: [/jvwfwrg/hzjpg]: Add 172051 bytes = 744928
+Line: [$ cd ddrwfq]
+new dir: /jvwfwrg/hzjpg/ddrwfq, depth:3
+Line: [$ ls]
+Line: [11756 ffhwwg]
+Dir: [/jvwfwrg/hzjpg/ddrwfq]: Add 11756 bytes = 11756
+Line: [$ cd ..]
+new dir: /jvwfwrg/hzjpg, depth:2
+Line: [$ cd mqwww]
+new dir: /jvwfwrg/hzjpg/mqwww, depth:3
+Line: [$ ls]
+Line: [149750 wlfmbv.cgp]
+Dir: [/jvwfwrg/hzjpg/mqwww]: Add 149750 bytes = 149750
+Line: [$ cd ..]
+new dir: /jvwfwrg/hzjpg, depth:2
+Line: [$ cd wctwz]
+new dir: /jvwfwrg/hzjpg/wctwz, depth:3
+Line: [$ ls]
+Line: [277720 qldfrhm.bph]
+Dir: [/jvwfwrg/hzjpg/wctwz]: Add 277720 bytes = 277720
+Line: [$ cd ..]
+new dir: /jvwfwrg/hzjpg, depth:2
+Line: [$ cd wlrmbtdg]
+new dir: /jvwfwrg/hzjpg/wlrmbtdg, depth:3
+Line: [$ ls]
+Line: [14154 ffhwwg]
+Dir: [/jvwfwrg/hzjpg/wlrmbtdg]: Add 14154 bytes = 14154
+Line: [dir hgdjv]
+Dir [/jvwfwrg/hzjpg/wlrmbtdg]: Add hgdjv/
+Line: [dir qldfrhm]
+Dir [/jvwfwrg/hzjpg/wlrmbtdg]: Add qldfrhm/
+Line: [48920 qwqlzvzv]
+Dir: [/jvwfwrg/hzjpg/wlrmbtdg]: Add 48920 bytes = 63074
+Line: [101228 wdqqqv.pcr]
+Dir: [/jvwfwrg/hzjpg/wlrmbtdg]: Add 101228 bytes = 164302
+Line: [159676 zldbq]
+Dir: [/jvwfwrg/hzjpg/wlrmbtdg]: Add 159676 bytes = 323978
+Line: [$ cd hgdjv]
+new dir: /jvwfwrg/hzjpg/wlrmbtdg/hgdjv, depth:4
+Line: [$ ls]
+Line: [dir hlw]
+Dir [/jvwfwrg/hzjpg/wlrmbtdg/hgdjv]: Add hlw/
+Line: [$ cd hlw]
+new dir: /jvwfwrg/hzjpg/wlrmbtdg/hgdjv/hlw, depth:5
+Line: [$ ls]
+Line: [229687 cdzwfzww.wcv]
+Dir: [/jvwfwrg/hzjpg/wlrmbtdg/hgdjv/hlw]: Add 229687 bytes = 229687
+Line: [$ cd ..]
+new dir: /jvwfwrg/hzjpg/wlrmbtdg/hgdjv, depth:4
+Line: [$ cd ..]
+new dir: /jvwfwrg/hzjpg/wlrmbtdg, depth:3
+Line: [$ cd qldfrhm]
+new dir: /jvwfwrg/hzjpg/wlrmbtdg/qldfrhm, depth:4
+Line: [$ ls]
+Line: [254189 nfbp.gcg]
+Dir: [/jvwfwrg/hzjpg/wlrmbtdg/qldfrhm]: Add 254189 bytes = 254189
+Line: [$ cd ..]
+new dir: /jvwfwrg/hzjpg/wlrmbtdg, depth:3
+Line: [$ cd ..]
+new dir: /jvwfwrg/hzjpg, depth:2
+Line: [$ cd ..]
+new dir: /jvwfwrg, depth:1
+Line: [$ cd jwl]
+new dir: /jvwfwrg/jwl, depth:2
+Line: [$ ls]
+Line: [277778 drtw]
+Dir: [/jvwfwrg/jwl]: Add 277778 bytes = 277778
+Line: [dir ghgf]
+Dir [/jvwfwrg/jwl]: Add ghgf/
+Line: [dir gqlmq]
+Dir [/jvwfwrg/jwl]: Add gqlmq/
+Line: [163875 jwl.pmm]
+Dir: [/jvwfwrg/jwl]: Add 163875 bytes = 441653
+Line: [dir mjm]
+Dir [/jvwfwrg/jwl]: Add mjm/
+Line: [dir qgq]
+Dir [/jvwfwrg/jwl]: Add qgq/
+Line: [$ cd ghgf]
+new dir: /jvwfwrg/jwl/ghgf, depth:3
+Line: [$ ls]
+Line: [181540 zsgjptrm.thf]
+Dir: [/jvwfwrg/jwl/ghgf]: Add 181540 bytes = 181540
+Line: [$ cd ..]
+new dir: /jvwfwrg/jwl, depth:2
+Line: [$ cd gqlmq]
+new dir: /jvwfwrg/jwl/gqlmq, depth:3
+Line: [$ ls]
+Line: [dir ffhwwg]
+Dir [/jvwfwrg/jwl/gqlmq]: Add ffhwwg/
+Line: [283989 hzpwn]
+Dir: [/jvwfwrg/jwl/gqlmq]: Add 283989 bytes = 283989
+Line: [dir jwl]
+Dir [/jvwfwrg/jwl/gqlmq]: Add jwl/
+Line: [dir pqdqntr]
+Dir [/jvwfwrg/jwl/gqlmq]: Add pqdqntr/
+Line: [62581 vrdbrwp.dss]
+Dir: [/jvwfwrg/jwl/gqlmq]: Add 62581 bytes = 346570
+Line: [$ cd ffhwwg]
+new dir: /jvwfwrg/jwl/gqlmq/ffhwwg, depth:4
+Line: [$ ls]
+Line: [242533 qwqlzvzv]
+Dir: [/jvwfwrg/jwl/gqlmq/ffhwwg]: Add 242533 bytes = 242533
+Line: [21991 wdqqqv.pcr]
+Dir: [/jvwfwrg/jwl/gqlmq/ffhwwg]: Add 21991 bytes = 264524
+Line: [$ cd ..]
+new dir: /jvwfwrg/jwl/gqlmq, depth:3
+Line: [$ cd jwl]
+new dir: /jvwfwrg/jwl/gqlmq/jwl, depth:4
+Line: [$ ls]
+Line: [179926 jfgbmb.qsd]
+Dir: [/jvwfwrg/jwl/gqlmq/jwl]: Add 179926 bytes = 179926
+Line: [dir zjv]
+Dir [/jvwfwrg/jwl/gqlmq/jwl]: Add zjv/
+Line: [$ cd zjv]
+new dir: /jvwfwrg/jwl/gqlmq/jwl/zjv, depth:5
+Line: [$ ls]
+Line: [102693 ffhwwg.hrt]
+Dir: [/jvwfwrg/jwl/gqlmq/jwl/zjv]: Add 102693 bytes = 102693
+Line: [$ cd ..]
+new dir: /jvwfwrg/jwl/gqlmq/jwl, depth:4
+Line: [$ cd ..]
+new dir: /jvwfwrg/jwl/gqlmq, depth:3
+Line: [$ cd pqdqntr]
+new dir: /jvwfwrg/jwl/gqlmq/pqdqntr, depth:4
+Line: [$ ls]
+Line: [159376 nqwcsdmv]
+Dir: [/jvwfwrg/jwl/gqlmq/pqdqntr]: Add 159376 bytes = 159376
+Line: [$ cd ..]
+new dir: /jvwfwrg/jwl/gqlmq, depth:3
+Line: [$ cd ..]
+new dir: /jvwfwrg/jwl, depth:2
+Line: [$ cd mjm]
+new dir: /jvwfwrg/jwl/mjm, depth:3
+Line: [$ ls]
+Line: [273410 hdbmpnfv]
+Dir: [/jvwfwrg/jwl/mjm]: Add 273410 bytes = 273410
+Line: [8169 qwqlzvzv]
+Dir: [/jvwfwrg/jwl/mjm]: Add 8169 bytes = 281579
+Line: [87728 tfgq.vbt]
+Dir: [/jvwfwrg/jwl/mjm]: Add 87728 bytes = 369307
+Line: [221237 vrdbrwp.dss]
+Dir: [/jvwfwrg/jwl/mjm]: Add 221237 bytes = 590544
+Line: [$ cd ..]
+new dir: /jvwfwrg/jwl, depth:2
+Line: [$ cd qgq]
+new dir: /jvwfwrg/jwl/qgq, depth:3
+Line: [$ ls]
+Line: [dir dgq]
+Dir [/jvwfwrg/jwl/qgq]: Add dgq/
+Line: [dir hlw]
+Dir [/jvwfwrg/jwl/qgq]: Add hlw/
+Line: [164971 jvwfwrg]
+Dir: [/jvwfwrg/jwl/qgq]: Add 164971 bytes = 164971
+Line: [dir jwl]
+Dir [/jvwfwrg/jwl/qgq]: Add jwl/
+Line: [158534 qftjvcz.pfv]
+Dir: [/jvwfwrg/jwl/qgq]: Add 158534 bytes = 323505
+Line: [251561 qzzpmh]
+Dir: [/jvwfwrg/jwl/qgq]: Add 251561 bytes = 575066
+Line: [282035 wsz]
+Dir: [/jvwfwrg/jwl/qgq]: Add 282035 bytes = 857101
+Line: [$ cd dgq]
+new dir: /jvwfwrg/jwl/qgq/dgq, depth:4
+Line: [$ ls]
+Line: [dir ffhwwg]
+Dir [/jvwfwrg/jwl/qgq/dgq]: Add ffhwwg/
+Line: [237291 nfqzn]
+Dir: [/jvwfwrg/jwl/qgq/dgq]: Add 237291 bytes = 237291
+Line: [70142 qfnrvmp.vbb]
+Dir: [/jvwfwrg/jwl/qgq/dgq]: Add 70142 bytes = 307433
+Line: [55607 zldbq]
+Dir: [/jvwfwrg/jwl/qgq/dgq]: Add 55607 bytes = 363040
+Line: [$ cd ffhwwg]
+new dir: /jvwfwrg/jwl/qgq/dgq/ffhwwg, depth:5
+Line: [$ ls]
+Line: [117790 sqhrdmd.thc]
+Dir: [/jvwfwrg/jwl/qgq/dgq/ffhwwg]: Add 117790 bytes = 117790
+Line: [186465 tfctr.scc]
+Dir: [/jvwfwrg/jwl/qgq/dgq/ffhwwg]: Add 186465 bytes = 304255
+Line: [236863 wdqqqv.pcr]
+Dir: [/jvwfwrg/jwl/qgq/dgq/ffhwwg]: Add 236863 bytes = 541118
+Line: [$ cd ..]
+new dir: /jvwfwrg/jwl/qgq/dgq, depth:4
+Line: [$ cd ..]
+new dir: /jvwfwrg/jwl/qgq, depth:3
+Line: [$ cd hlw]
+new dir: /jvwfwrg/jwl/qgq/hlw, depth:4
+Line: [$ ls]
+Line: [244567 wrnplfgg.pcw]
+Dir: [/jvwfwrg/jwl/qgq/hlw]: Add 244567 bytes = 244567
+Line: [$ cd ..]
+new dir: /jvwfwrg/jwl/qgq, depth:3
+Line: [$ cd jwl]
+new dir: /jvwfwrg/jwl/qgq/jwl, depth:4
+Line: [$ ls]
+Line: [105997 lpsg.jjl]
+Dir: [/jvwfwrg/jwl/qgq/jwl]: Add 105997 bytes = 105997
+Line: [$ cd ..]
+new dir: /jvwfwrg/jwl/qgq, depth:3
+Line: [$ cd ..]
+new dir: /jvwfwrg/jwl, depth:2
+Line: [$ cd ..]
+new dir: /jvwfwrg, depth:1
+Line: [$ cd nmz]
+new dir: /jvwfwrg/nmz, depth:2
+Line: [$ ls]
+Line: [51802 qwqlzvzv]
+Dir: [/jvwfwrg/nmz]: Add 51802 bytes = 51802
+Line: [128617 zldbq]
+Dir: [/jvwfwrg/nmz]: Add 128617 bytes = 180419
+Line: [$ cd ..]
+new dir: /jvwfwrg, depth:1
+Line: [$ cd tdjtv]
+new dir: /jvwfwrg/tdjtv, depth:2
+Line: [$ ls]
+Line: [dir jvwfwrg]
+Dir [/jvwfwrg/tdjtv]: Add jvwfwrg/
+Line: [dir mdmwf]
+Dir [/jvwfwrg/tdjtv]: Add mdmwf/
+Line: [dir rlpbrq]
+Dir [/jvwfwrg/tdjtv]: Add rlpbrq/
+Line: [$ cd jvwfwrg]
+new dir: /jvwfwrg/tdjtv/jvwfwrg, depth:3
+Line: [$ ls]
+Line: [35406 wdqqqv.pcr]
+Dir: [/jvwfwrg/tdjtv/jvwfwrg]: Add 35406 bytes = 35406
+Line: [$ cd ..]
+new dir: /jvwfwrg/tdjtv, depth:2
+Line: [$ cd mdmwf]
+new dir: /jvwfwrg/tdjtv/mdmwf, depth:3
+Line: [$ ls]
+Line: [dir ffhwwg]
+Dir [/jvwfwrg/tdjtv/mdmwf]: Add ffhwwg/
+Line: [15609 rdpwqw.pfv]
+Dir: [/jvwfwrg/tdjtv/mdmwf]: Add 15609 bytes = 15609
+Line: [205721 zldbq]
+Dir: [/jvwfwrg/tdjtv/mdmwf]: Add 205721 bytes = 221330
+Line: [$ cd ffhwwg]
+new dir: /jvwfwrg/tdjtv/mdmwf/ffhwwg, depth:4
+Line: [$ ls]
+Line: [117473 hdcv.cwj]
+Dir: [/jvwfwrg/tdjtv/mdmwf/ffhwwg]: Add 117473 bytes = 117473
+Line: [$ cd ..]
+new dir: /jvwfwrg/tdjtv/mdmwf, depth:3
+Line: [$ cd ..]
+new dir: /jvwfwrg/tdjtv, depth:2
+Line: [$ cd rlpbrq]
+new dir: /jvwfwrg/tdjtv/rlpbrq, depth:3
+Line: [$ ls]
+Line: [120058 dgddvmt.fnv]
+Dir: [/jvwfwrg/tdjtv/rlpbrq]: Add 120058 bytes = 120058
+Line: [194704 ffhwwg]
+Dir: [/jvwfwrg/tdjtv/rlpbrq]: Add 194704 bytes = 314762
+Line: [256467 qwqlzvzv]
+Dir: [/jvwfwrg/tdjtv/rlpbrq]: Add 256467 bytes = 571229
+Line: [$ cd ..]
+new dir: /jvwfwrg/tdjtv, depth:2
+Line: [$ cd ..]
+new dir: /jvwfwrg, depth:1
+Line: [$ cd wdn]
+new dir: /jvwfwrg/wdn, depth:2
+Line: [$ ls]
+Line: [170094 bzqsnv]
+Dir: [/jvwfwrg/wdn]: Add 170094 bytes = 170094
+Line: [dir gqmghw]
+Dir [/jvwfwrg/wdn]: Add gqmghw/
+Line: [150252 gwgz.fnf]
+Dir: [/jvwfwrg/wdn]: Add 150252 bytes = 320346
+Line: [243953 jfgbmb.qsd]
+Dir: [/jvwfwrg/wdn]: Add 243953 bytes = 564299
+Line: [123382 qwqlzvzv]
+Dir: [/jvwfwrg/wdn]: Add 123382 bytes = 687681
+Line: [96220 wpc.swm]
+Dir: [/jvwfwrg/wdn]: Add 96220 bytes = 783901
+Line: [dir ztqbhjr]
+Dir [/jvwfwrg/wdn]: Add ztqbhjr/
+Line: [$ cd gqmghw]
+new dir: /jvwfwrg/wdn/gqmghw, depth:3
+Line: [$ ls]
+Line: [dir tlgbcrh]
+Dir [/jvwfwrg/wdn/gqmghw]: Add tlgbcrh/
+Line: [$ cd tlgbcrh]
+new dir: /jvwfwrg/wdn/gqmghw/tlgbcrh, depth:4
+Line: [$ ls]
+Line: [281457 ztjhcrwf.ljf]
+Dir: [/jvwfwrg/wdn/gqmghw/tlgbcrh]: Add 281457 bytes = 281457
+Line: [$ cd ..]
+new dir: /jvwfwrg/wdn/gqmghw, depth:3
+Line: [$ cd ..]
+new dir: /jvwfwrg/wdn, depth:2
+Line: [$ cd ztqbhjr]
+new dir: /jvwfwrg/wdn/ztqbhjr, depth:3
+Line: [$ ls]
+Line: [271212 jfgbmb.qsd]
+Dir: [/jvwfwrg/wdn/ztqbhjr]: Add 271212 bytes = 271212
+Line: [dir nbhq]
+Dir [/jvwfwrg/wdn/ztqbhjr]: Add nbhq/
+Line: [dir vfmmj]
+Dir [/jvwfwrg/wdn/ztqbhjr]: Add vfmmj/
+Line: [260079 vrdbrwp.dss]
+Dir: [/jvwfwrg/wdn/ztqbhjr]: Add 260079 bytes = 531291
+Line: [$ cd nbhq]
+new dir: /jvwfwrg/wdn/ztqbhjr/nbhq, depth:4
+Line: [$ ls]
+Line: [179096 hlw.hrh]
+Dir: [/jvwfwrg/wdn/ztqbhjr/nbhq]: Add 179096 bytes = 179096
+Line: [150184 wdqqqv.pcr]
+Dir: [/jvwfwrg/wdn/ztqbhjr/nbhq]: Add 150184 bytes = 329280
+Line: [$ cd ..]
+new dir: /jvwfwrg/wdn/ztqbhjr, depth:3
+Line: [$ cd vfmmj]
+new dir: /jvwfwrg/wdn/ztqbhjr/vfmmj, depth:4
+Line: [$ ls]
+Line: [57445 hlw.pfb]
+Dir: [/jvwfwrg/wdn/ztqbhjr/vfmmj]: Add 57445 bytes = 57445
+Line: [40329 qldfrhm]
+Dir: [/jvwfwrg/wdn/ztqbhjr/vfmmj]: Add 40329 bytes = 97774
+Line: [$ cd ..]
+new dir: /jvwfwrg/wdn/ztqbhjr, depth:3
+Line: [$ cd ..]
+new dir: /jvwfwrg/wdn, depth:2
+Line: [$ cd ..]
+new dir: /jvwfwrg, depth:1
+Line: [$ cd ..]
+new dir: /, depth:0
+Line: [$ cd tzwpllhq]
+new dir: /tzwpllhq, depth:1
+Line: [$ ls]
+Line: [33596 cmwwd]
+Dir: [/tzwpllhq]: Add 33596 bytes = 33596
+Line: [16963 hlw.jrw]
+Dir: [/tzwpllhq]: Add 16963 bytes = 50559
+Line: [161107 hlw.npq]
+Dir: [/tzwpllhq]: Add 161107 bytes = 211666
+Line: [dir jwv]
+Dir [/tzwpllhq]: Add jwv/
+Line: [152431 nqf.jjg]
+Dir: [/tzwpllhq]: Add 152431 bytes = 364097
+Line: [dir qldfrhm]
+Dir [/tzwpllhq]: Add qldfrhm/
+Line: [dir swmwvl]
+Dir [/tzwpllhq]: Add swmwvl/
+Line: [dir wzpth]
+Dir [/tzwpllhq]: Add wzpth/
+Line: [$ cd jwv]
+new dir: /tzwpllhq/jwv, depth:2
+Line: [$ ls]
+Line: [dir bgswd]
+Dir [/tzwpllhq/jwv]: Add bgswd/
+Line: [188795 hlw]
+Dir: [/tzwpllhq/jwv]: Add 188795 bytes = 188795
+Line: [dir jvwfwrg]
+Dir [/tzwpllhq/jwv]: Add jvwfwrg/
+Line: [dir jwl]
+Dir [/tzwpllhq/jwv]: Add jwl/
+Line: [dir mbcb]
+Dir [/tzwpllhq/jwv]: Add mbcb/
+Line: [dir qldfrhm]
+Dir [/tzwpllhq/jwv]: Add qldfrhm/
+Line: [30173 qwqlzvzv]
+Dir: [/tzwpllhq/jwv]: Add 30173 bytes = 218968
+Line: [193577 zldbq]
+Dir: [/tzwpllhq/jwv]: Add 193577 bytes = 412545
+Line: [$ cd bgswd]
+new dir: /tzwpllhq/jwv/bgswd, depth:3
+Line: [$ ls]
+Line: [dir hdgt]
+Dir [/tzwpllhq/jwv/bgswd]: Add hdgt/
+Line: [216966 ldbg.dzh]
+Dir: [/tzwpllhq/jwv/bgswd]: Add 216966 bytes = 216966
+Line: [$ cd hdgt]
+new dir: /tzwpllhq/jwv/bgswd/hdgt, depth:4
+Line: [$ ls]
+Line: [70441 fnv.bpl]
+Dir: [/tzwpllhq/jwv/bgswd/hdgt]: Add 70441 bytes = 70441
+Line: [$ cd ..]
+new dir: /tzwpllhq/jwv/bgswd, depth:3
+Line: [$ cd ..]
+new dir: /tzwpllhq/jwv, depth:2
+Line: [$ cd jvwfwrg]
+new dir: /tzwpllhq/jwv/jvwfwrg, depth:3
+Line: [$ ls]
+Line: [dir mctsws]
+Dir [/tzwpllhq/jwv/jvwfwrg]: Add mctsws/
+Line: [69374 qldfrhm]
+Dir: [/tzwpllhq/jwv/jvwfwrg]: Add 69374 bytes = 69374
+Line: [$ cd mctsws]
+new dir: /tzwpllhq/jwv/jvwfwrg/mctsws, depth:4
+Line: [$ ls]
+Line: [257337 qsgvbj]
+Dir: [/tzwpllhq/jwv/jvwfwrg/mctsws]: Add 257337 bytes = 257337
+Line: [$ cd ..]
+new dir: /tzwpllhq/jwv/jvwfwrg, depth:3
+Line: [$ cd ..]
+new dir: /tzwpllhq/jwv, depth:2
+Line: [$ cd jwl]
+new dir: /tzwpllhq/jwv/jwl, depth:3
+Line: [$ ls]
+Line: [161061 ffhwwg]
+Dir: [/tzwpllhq/jwv/jwl]: Add 161061 bytes = 161061
+Line: [$ cd ..]
+new dir: /tzwpllhq/jwv, depth:2
+Line: [$ cd mbcb]
+new dir: /tzwpllhq/jwv/mbcb, depth:3
+Line: [$ ls]
+Line: [dir fbhhq]
+Dir [/tzwpllhq/jwv/mbcb]: Add fbhhq/
+Line: [dir rgjwh]
+Dir [/tzwpllhq/jwv/mbcb]: Add rgjwh/
+Line: [$ cd fbhhq]
+new dir: /tzwpllhq/jwv/mbcb/fbhhq, depth:4
+Line: [$ ls]
+Line: [dir vnn]
+Dir [/tzwpllhq/jwv/mbcb/fbhhq]: Add vnn/
+Line: [$ cd vnn]
+new dir: /tzwpllhq/jwv/mbcb/fbhhq/vnn, depth:5
+Line: [$ ls]
+Line: [55629 cthtjm.wbt]
+Dir: [/tzwpllhq/jwv/mbcb/fbhhq/vnn]: Add 55629 bytes = 55629
+Line: [$ cd ..]
+new dir: /tzwpllhq/jwv/mbcb/fbhhq, depth:4
+Line: [$ cd ..]
+new dir: /tzwpllhq/jwv/mbcb, depth:3
+Line: [$ cd rgjwh]
+new dir: /tzwpllhq/jwv/mbcb/rgjwh, depth:4
+Line: [$ ls]
+Line: [7826 wrhpmqd.fvw]
+Dir: [/tzwpllhq/jwv/mbcb/rgjwh]: Add 7826 bytes = 7826
+Line: [$ cd ..]
+new dir: /tzwpllhq/jwv/mbcb, depth:3
+Line: [$ cd ..]
+new dir: /tzwpllhq/jwv, depth:2
+Line: [$ cd qldfrhm]
+new dir: /tzwpllhq/jwv/qldfrhm, depth:3
+Line: [$ ls]
+Line: [14471 hlw.lwh]
+Dir: [/tzwpllhq/jwv/qldfrhm]: Add 14471 bytes = 14471
+Line: [163165 jnpgzcmt]
+Dir: [/tzwpllhq/jwv/qldfrhm]: Add 163165 bytes = 177636
+Line: [10880 qwqlzvzv]
+Dir: [/tzwpllhq/jwv/qldfrhm]: Add 10880 bytes = 188516
+Line: [$ cd ..]
+new dir: /tzwpllhq/jwv, depth:2
+Line: [$ cd ..]
+new dir: /tzwpllhq, depth:1
+Line: [$ cd qldfrhm]
+new dir: /tzwpllhq/qldfrhm, depth:2
+Line: [$ ls]
+Line: [dir ffhwwg]
+Dir [/tzwpllhq/qldfrhm]: Add ffhwwg/
+Line: [dir jwl]
+Dir [/tzwpllhq/qldfrhm]: Add jwl/
+Line: [15164 ldmm]
+Dir: [/tzwpllhq/qldfrhm]: Add 15164 bytes = 15164
+Line: [188544 pwg.zsf]
+Dir: [/tzwpllhq/qldfrhm]: Add 188544 bytes = 203708
+Line: [255566 qjlggt]
+Dir: [/tzwpllhq/qldfrhm]: Add 255566 bytes = 459274
+Line: [dir tbngqwb]
+Dir [/tzwpllhq/qldfrhm]: Add tbngqwb/
+Line: [59898 zldbq]
+Dir: [/tzwpllhq/qldfrhm]: Add 59898 bytes = 519172
+Line: [$ cd ffhwwg]
+new dir: /tzwpllhq/qldfrhm/ffhwwg, depth:3
+Line: [$ ls]
+Line: [218749 ffhwwg.ztr]
+Dir: [/tzwpllhq/qldfrhm/ffhwwg]: Add 218749 bytes = 218749
+Line: [$ cd ..]
+new dir: /tzwpllhq/qldfrhm, depth:2
+Line: [$ cd jwl]
+new dir: /tzwpllhq/qldfrhm/jwl, depth:3
+Line: [$ ls]
+Line: [40245 cbhtl.frv]
+Dir: [/tzwpllhq/qldfrhm/jwl]: Add 40245 bytes = 40245
+Line: [268818 fmwvvg]
+Dir: [/tzwpllhq/qldfrhm/jwl]: Add 268818 bytes = 309063
+Line: [161866 nqp]
+Dir: [/tzwpllhq/qldfrhm/jwl]: Add 161866 bytes = 470929
+Line: [dir nsvjcpc]
+Dir [/tzwpllhq/qldfrhm/jwl]: Add nsvjcpc/
+Line: [dir nwdvblg]
+Dir [/tzwpllhq/qldfrhm/jwl]: Add nwdvblg/
+Line: [171528 qldfrhm]
+Dir: [/tzwpllhq/qldfrhm/jwl]: Add 171528 bytes = 642457
+Line: [dir qqmb]
+Dir [/tzwpllhq/qldfrhm/jwl]: Add qqmb/
+Line: [282266 wdqqqv.pcr]
+Dir: [/tzwpllhq/qldfrhm/jwl]: Add 282266 bytes = 924723
+Line: [$ cd nsvjcpc]
+new dir: /tzwpllhq/qldfrhm/jwl/nsvjcpc, depth:4
+Line: [$ ls]
+Line: [43660 wtnhh.zgw]
+Dir: [/tzwpllhq/qldfrhm/jwl/nsvjcpc]: Add 43660 bytes = 43660
+Line: [$ cd ..]
+new dir: /tzwpllhq/qldfrhm/jwl, depth:3
+Line: [$ cd nwdvblg]
+new dir: /tzwpllhq/qldfrhm/jwl/nwdvblg, depth:4
+Line: [$ ls]
+Line: [dir cltj]
+Dir [/tzwpllhq/qldfrhm/jwl/nwdvblg]: Add cltj/
+Line: [dir fds]
+Dir [/tzwpllhq/qldfrhm/jwl/nwdvblg]: Add fds/
+Line: [$ cd cltj]
+new dir: /tzwpllhq/qldfrhm/jwl/nwdvblg/cltj, depth:5
+Line: [$ ls]
+Line: [86970 dlzsw.whj]
+Dir: [/tzwpllhq/qldfrhm/jwl/nwdvblg/cltj]: Add 86970 bytes = 86970
+Line: [111805 qwqlzvzv]
+Dir: [/tzwpllhq/qldfrhm/jwl/nwdvblg/cltj]: Add 111805 bytes = 198775
+Line: [247438 zldbq]
+Dir: [/tzwpllhq/qldfrhm/jwl/nwdvblg/cltj]: Add 247438 bytes = 446213
+Line: [$ cd ..]
+new dir: /tzwpllhq/qldfrhm/jwl/nwdvblg, depth:4
+Line: [$ cd fds]
+new dir: /tzwpllhq/qldfrhm/jwl/nwdvblg/fds, depth:5
+Line: [$ ls]
+Line: [49560 fsrvhv.lhd]
+Dir: [/tzwpllhq/qldfrhm/jwl/nwdvblg/fds]: Add 49560 bytes = 49560
+Line: [234970 jvwfwrg.pfd]
+Dir: [/tzwpllhq/qldfrhm/jwl/nwdvblg/fds]: Add 234970 bytes = 284530
+Line: [133376 qgbmc]
+Dir: [/tzwpllhq/qldfrhm/jwl/nwdvblg/fds]: Add 133376 bytes = 417906
+Line: [$ cd ..]
+new dir: /tzwpllhq/qldfrhm/jwl/nwdvblg, depth:4
+Line: [$ cd ..]
+new dir: /tzwpllhq/qldfrhm/jwl, depth:3
+Line: [$ cd qqmb]
+new dir: /tzwpllhq/qldfrhm/jwl/qqmb, depth:4
+Line: [$ ls]
+Line: [139542 qzm.jjz]
+Dir: [/tzwpllhq/qldfrhm/jwl/qqmb]: Add 139542 bytes = 139542
+Line: [$ cd ..]
+new dir: /tzwpllhq/qldfrhm/jwl, depth:3
+Line: [$ cd ..]
+new dir: /tzwpllhq/qldfrhm, depth:2
+Line: [$ cd tbngqwb]
+new dir: /tzwpllhq/qldfrhm/tbngqwb, depth:3
+Line: [$ ls]
+Line: [dir jwl]
+Dir [/tzwpllhq/qldfrhm/tbngqwb]: Add jwl/
+Line: [273706 vcfmt.jqv]
+Dir: [/tzwpllhq/qldfrhm/tbngqwb]: Add 273706 bytes = 273706
+Line: [76731 wdqqqv.pcr]
+Dir: [/tzwpllhq/qldfrhm/tbngqwb]: Add 76731 bytes = 350437
+Line: [$ cd jwl]
+new dir: /tzwpllhq/qldfrhm/tbngqwb/jwl, depth:4
+Line: [$ ls]
+Line: [45969 ltvvm]
+Dir: [/tzwpllhq/qldfrhm/tbngqwb/jwl]: Add 45969 bytes = 45969
+Line: [$ cd ..]
+new dir: /tzwpllhq/qldfrhm/tbngqwb, depth:3
+Line: [$ cd ..]
+new dir: /tzwpllhq/qldfrhm, depth:2
+Line: [$ cd ..]
+new dir: /tzwpllhq, depth:1
+Line: [$ cd swmwvl]
+new dir: /tzwpllhq/swmwvl, depth:2
+Line: [$ ls]
+Line: [32187 dzn.rnz]
+Dir: [/tzwpllhq/swmwvl]: Add 32187 bytes = 32187
+Line: [dir gsj]
+Dir [/tzwpllhq/swmwvl]: Add gsj/
+Line: [83763 jfgbmb.qsd]
+Dir: [/tzwpllhq/swmwvl]: Add 83763 bytes = 115950
+Line: [93113 vrdbrwp.dss]
+Dir: [/tzwpllhq/swmwvl]: Add 93113 bytes = 209063
+Line: [$ cd gsj]
+new dir: /tzwpllhq/swmwvl/gsj, depth:3
+Line: [$ ls]
+Line: [dir fpzj]
+Dir [/tzwpllhq/swmwvl/gsj]: Add fpzj/
+Line: [152202 wntpsp.tbf]
+Dir: [/tzwpllhq/swmwvl/gsj]: Add 152202 bytes = 152202
+Line: [$ cd fpzj]
+new dir: /tzwpllhq/swmwvl/gsj/fpzj, depth:4
+Line: [$ ls]
+Line: [83665 btwqdhnf.qwz]
+Dir: [/tzwpllhq/swmwvl/gsj/fpzj]: Add 83665 bytes = 83665
+Line: [$ cd ..]
+new dir: /tzwpllhq/swmwvl/gsj, depth:3
+Line: [$ cd ..]
+new dir: /tzwpllhq/swmwvl, depth:2
+Line: [$ cd ..]
+new dir: /tzwpllhq, depth:1
+Line: [$ cd wzpth]
+new dir: /tzwpllhq/wzpth, depth:2
+Line: [$ ls]
+Line: [dir snhss]
+Dir [/tzwpllhq/wzpth]: Add snhss/
+Line: [$ cd snhss]
+new dir: /tzwpllhq/wzpth/snhss, depth:3
+Line: [$ ls]
+Line: [dir hlw]
+Dir [/tzwpllhq/wzpth/snhss]: Add hlw/
+Line: [$ cd hlw]
+new dir: /tzwpllhq/wzpth/snhss/hlw, depth:4
+Line: [$ ls]
+Line: [15123 qwqlzvzv]
+Dir: [/tzwpllhq/wzpth/snhss/hlw]: Add 15123 bytes = 15123
+Line: [$ cd ..]
+new dir: /tzwpllhq/wzpth/snhss, depth:3
+Line: [$ cd ..]
+new dir: /tzwpllhq/wzpth, depth:2
+Line: [$ cd ..]
+new dir: /tzwpllhq, depth:1
+Line: [$ cd ..]
+new dir: /, depth:0
+Line: [$ cd vglf]
+new dir: /vglf, depth:1
+Line: [$ ls]
+Line: [dir gdjmt]
+Dir [/vglf]: Add gdjmt/
+Line: [dir hnnw]
+Dir [/vglf]: Add hnnw/
+Line: [dir htqzfcc]
+Dir [/vglf]: Add htqzfcc/
+Line: [dir nqf]
+Dir [/vglf]: Add nqf/
+Line: [269558 qldfrhm]
+Dir: [/vglf]: Add 269558 bytes = 269558
+Line: [116732 rqg.zbf]
+Dir: [/vglf]: Add 116732 bytes = 386290
+Line: [dir tvmqzwmn]
+Dir [/vglf]: Add tvmqzwmn/
+Line: [72822 vrdbrwp.dss]
+Dir: [/vglf]: Add 72822 bytes = 459112
+Line: [$ cd gdjmt]
+new dir: /vglf/gdjmt, depth:2
+Line: [$ ls]
+Line: [214742 jfgbmb.qsd]
+Dir: [/vglf/gdjmt]: Add 214742 bytes = 214742
+Line: [$ cd ..]
+new dir: /vglf, depth:1
+Line: [$ cd hnnw]
+new dir: /vglf/hnnw, depth:2
+Line: [$ ls]
+Line: [dir ffhwwg]
+Dir [/vglf/hnnw]: Add ffhwwg/
+Line: [217384 jfgbmb.qsd]
+Dir: [/vglf/hnnw]: Add 217384 bytes = 217384
+Line: [153385 jvwfwrg]
+Dir: [/vglf/hnnw]: Add 153385 bytes = 370769
+Line: [dir jwl]
+Dir [/vglf/hnnw]: Add jwl/
+Line: [dir shdt]
+Dir [/vglf/hnnw]: Add shdt/
+Line: [143935 vrdbrwp.dss]
+Dir: [/vglf/hnnw]: Add 143935 bytes = 514704
+Line: [90319 zldbq]
+Dir: [/vglf/hnnw]: Add 90319 bytes = 605023
+Line: [101043 zqvwfhrz.rfz]
+Dir: [/vglf/hnnw]: Add 101043 bytes = 706066
+Line: [$ cd ffhwwg]
+new dir: /vglf/hnnw/ffhwwg, depth:3
+Line: [$ ls]
+Line: [dir dsqwrdnq]
+Dir [/vglf/hnnw/ffhwwg]: Add dsqwrdnq/
+Line: [261158 jvwfwrg.plf]
+Dir: [/vglf/hnnw/ffhwwg]: Add 261158 bytes = 261158
+Line: [$ cd dsqwrdnq]
+new dir: /vglf/hnnw/ffhwwg/dsqwrdnq, depth:4
+Line: [$ ls]
+Line: [129823 pngjr.rpg]
+Dir: [/vglf/hnnw/ffhwwg/dsqwrdnq]: Add 129823 bytes = 129823
+Line: [$ cd ..]
+new dir: /vglf/hnnw/ffhwwg, depth:3
+Line: [$ cd ..]
+new dir: /vglf/hnnw, depth:2
+Line: [$ cd jwl]
+new dir: /vglf/hnnw/jwl, depth:3
+Line: [$ ls]
+Line: [dir bzq]
+Dir [/vglf/hnnw/jwl]: Add bzq/
+Line: [215828 hpqtdllh]
+Dir: [/vglf/hnnw/jwl]: Add 215828 bytes = 215828
+Line: [dir jjmndb]
+Dir [/vglf/hnnw/jwl]: Add jjmndb/
+Line: [dir pjzqjbd]
+Dir [/vglf/hnnw/jwl]: Add pjzqjbd/
+Line: [dir pmslv]
+Dir [/vglf/hnnw/jwl]: Add pmslv/
+Line: [dir smfg]
+Dir [/vglf/hnnw/jwl]: Add smfg/
+Line: [dir wmjjwh]
+Dir [/vglf/hnnw/jwl]: Add wmjjwh/
+Line: [$ cd bzq]
+new dir: /vglf/hnnw/jwl/bzq, depth:4
+Line: [$ ls]
+Line: [199534 jvwfwrg.tnt]
+Dir: [/vglf/hnnw/jwl/bzq]: Add 199534 bytes = 199534
+Line: [$ cd ..]
+new dir: /vglf/hnnw/jwl, depth:3
+Line: [$ cd jjmndb]
+new dir: /vglf/hnnw/jwl/jjmndb, depth:4
+Line: [$ ls]
+Line: [dir cbfdqtc]
+Dir [/vglf/hnnw/jwl/jjmndb]: Add cbfdqtc/
+Line: [dir gnjlnz]
+Dir [/vglf/hnnw/jwl/jjmndb]: Add gnjlnz/
+Line: [dir hlw]
+Dir [/vglf/hnnw/jwl/jjmndb]: Add hlw/
+Line: [201443 lgdvsvc.wvp]
+Dir: [/vglf/hnnw/jwl/jjmndb]: Add 201443 bytes = 201443
+Line: [dir lzlwstch]
+Dir [/vglf/hnnw/jwl/jjmndb]: Add lzlwstch/
+Line: [175514 nlvh.rjc]
+Dir: [/vglf/hnnw/jwl/jjmndb]: Add 175514 bytes = 376957
+Line: [dir qldfrhm]
+Dir [/vglf/hnnw/jwl/jjmndb]: Add qldfrhm/
+Line: [144450 qwqlzvzv]
+Dir: [/vglf/hnnw/jwl/jjmndb]: Add 144450 bytes = 521407
+Line: [dir ssh]
+Dir [/vglf/hnnw/jwl/jjmndb]: Add ssh/
+Line: [dir tbdhtqn]
+Dir [/vglf/hnnw/jwl/jjmndb]: Add tbdhtqn/
+Line: [150014 ttp.zqf]
+Dir: [/vglf/hnnw/jwl/jjmndb]: Add 150014 bytes = 671421
+Line: [240619 wdqqqv.pcr]
+Dir: [/vglf/hnnw/jwl/jjmndb]: Add 240619 bytes = 912040
+Line: [$ cd cbfdqtc]
+new dir: /vglf/hnnw/jwl/jjmndb/cbfdqtc, depth:5
+Line: [$ ls]
+Line: [39125 ffhwwg.fpg]
+Dir: [/vglf/hnnw/jwl/jjmndb/cbfdqtc]: Add 39125 bytes = 39125
+Line: [264178 jpnslr.qqt]
+Dir: [/vglf/hnnw/jwl/jjmndb/cbfdqtc]: Add 264178 bytes = 303303
+Line: [180897 wjmfvtvn]
+Dir: [/vglf/hnnw/jwl/jjmndb/cbfdqtc]: Add 180897 bytes = 484200
+Line: [$ cd ..]
+new dir: /vglf/hnnw/jwl/jjmndb, depth:4
+Line: [$ cd gnjlnz]
+new dir: /vglf/hnnw/jwl/jjmndb/gnjlnz, depth:5
+Line: [$ ls]
+Line: [217994 jwl.ddh]
+Dir: [/vglf/hnnw/jwl/jjmndb/gnjlnz]: Add 217994 bytes = 217994
+Line: [$ cd ..]
+new dir: /vglf/hnnw/jwl/jjmndb, depth:4
+Line: [$ cd hlw]
+new dir: /vglf/hnnw/jwl/jjmndb/hlw, depth:5
+Line: [$ ls]
+Line: [dir chgwjl]
+Dir [/vglf/hnnw/jwl/jjmndb/hlw]: Add chgwjl/
+Line: [dir dsz]
+Dir [/vglf/hnnw/jwl/jjmndb/hlw]: Add dsz/
+Line: [165192 ffhwwg.qfc]
+Dir: [/vglf/hnnw/jwl/jjmndb/hlw]: Add 165192 bytes = 165192
+Line: [40771 gzph.mvb]
+Dir: [/vglf/hnnw/jwl/jjmndb/hlw]: Add 40771 bytes = 205963
+Line: [46495 jvwfwrg]
+Dir: [/vglf/hnnw/jwl/jjmndb/hlw]: Add 46495 bytes = 252458
+Line: [122203 lhgfb.blq]
+Dir: [/vglf/hnnw/jwl/jjmndb/hlw]: Add 122203 bytes = 374661
+Line: [175167 qwqlzvzv]
+Dir: [/vglf/hnnw/jwl/jjmndb/hlw]: Add 175167 bytes = 549828
+Line: [dir ttr]
+Dir [/vglf/hnnw/jwl/jjmndb/hlw]: Add ttr/
+Line: [$ cd chgwjl]
+new dir: /vglf/hnnw/jwl/jjmndb/hlw/chgwjl, depth:6
+Line: [$ ls]
+Line: [284909 jwl.qqp]
+Dir: [/vglf/hnnw/jwl/jjmndb/hlw/chgwjl]: Add 284909 bytes = 284909
+Line: [$ cd ..]
+new dir: /vglf/hnnw/jwl/jjmndb/hlw, depth:5
+Line: [$ cd dsz]
+new dir: /vglf/hnnw/jwl/jjmndb/hlw/dsz, depth:6
+Line: [$ ls]
+Line: [47411 bsshfjl.wbd]
+Dir: [/vglf/hnnw/jwl/jjmndb/hlw/dsz]: Add 47411 bytes = 47411
+Line: [$ cd ..]
+new dir: /vglf/hnnw/jwl/jjmndb/hlw, depth:5
+Line: [$ cd ttr]
+new dir: /vglf/hnnw/jwl/jjmndb/hlw/ttr, depth:6
+Line: [$ ls]
+Line: [dir fgbgl]
+Dir [/vglf/hnnw/jwl/jjmndb/hlw/ttr]: Add fgbgl/
+Line: [dir qsflswrq]
+Dir [/vglf/hnnw/jwl/jjmndb/hlw/ttr]: Add qsflswrq/
+Line: [5609 sfz]
+Dir: [/vglf/hnnw/jwl/jjmndb/hlw/ttr]: Add 5609 bytes = 5609
+Line: [250311 vrdbrwp.dss]
+Dir: [/vglf/hnnw/jwl/jjmndb/hlw/ttr]: Add 250311 bytes = 255920
+Line: [$ cd fgbgl]
+new dir: /vglf/hnnw/jwl/jjmndb/hlw/ttr/fgbgl, depth:7
+Line: [$ ls]
+Line: [203288 scclvct]
+Dir: [/vglf/hnnw/jwl/jjmndb/hlw/ttr/fgbgl]: Add 203288 bytes = 203288
+Line: [$ cd ..]
+new dir: /vglf/hnnw/jwl/jjmndb/hlw/ttr, depth:6
+Line: [$ cd qsflswrq]
+new dir: /vglf/hnnw/jwl/jjmndb/hlw/ttr/qsflswrq, depth:7
+Line: [$ ls]
+Line: [222611 ffhwwg]
+Dir: [/vglf/hnnw/jwl/jjmndb/hlw/ttr/qsflswrq]: Add 222611 bytes = 222611
+Line: [143339 thrwtw.nsg]
+Dir: [/vglf/hnnw/jwl/jjmndb/hlw/ttr/qsflswrq]: Add 143339 bytes = 365950
+Line: [$ cd ..]
+new dir: /vglf/hnnw/jwl/jjmndb/hlw/ttr, depth:6
+Line: [$ cd ..]
+new dir: /vglf/hnnw/jwl/jjmndb/hlw, depth:5
+Line: [$ cd ..]
+new dir: /vglf/hnnw/jwl/jjmndb, depth:4
+Line: [$ cd lzlwstch]
+new dir: /vglf/hnnw/jwl/jjmndb/lzlwstch, depth:5
+Line: [$ ls]
+Line: [dir ffhwwg]
+Dir [/vglf/hnnw/jwl/jjmndb/lzlwstch]: Add ffhwwg/
+Line: [dir hwmzp]
+Dir [/vglf/hnnw/jwl/jjmndb/lzlwstch]: Add hwmzp/
+Line: [dir jvwfwrg]
+Dir [/vglf/hnnw/jwl/jjmndb/lzlwstch]: Add jvwfwrg/
+Line: [dir ndpbn]
+Dir [/vglf/hnnw/jwl/jjmndb/lzlwstch]: Add ndpbn/
+Line: [dir qllzhd]
+Dir [/vglf/hnnw/jwl/jjmndb/lzlwstch]: Add qllzhd/
+Line: [$ cd ffhwwg]
+new dir: /vglf/hnnw/jwl/jjmndb/lzlwstch/ffhwwg, depth:6
+Line: [$ ls]
+Line: [51165 hlw.hdn]
+Dir: [/vglf/hnnw/jwl/jjmndb/lzlwstch/ffhwwg]: Add 51165 bytes = 51165
+Line: [$ cd ..]
+new dir: /vglf/hnnw/jwl/jjmndb/lzlwstch, depth:5
+Line: [$ cd hwmzp]
+new dir: /vglf/hnnw/jwl/jjmndb/lzlwstch/hwmzp, depth:6
+Line: [$ ls]
+Line: [54571 qwqlzvzv]
+Dir: [/vglf/hnnw/jwl/jjmndb/lzlwstch/hwmzp]: Add 54571 bytes = 54571
+Line: [$ cd ..]
+new dir: /vglf/hnnw/jwl/jjmndb/lzlwstch, depth:5
+Line: [$ cd jvwfwrg]
+new dir: /vglf/hnnw/jwl/jjmndb/lzlwstch/jvwfwrg, depth:6
+Line: [$ ls]
+Line: [130055 qldfrhm]
+Dir: [/vglf/hnnw/jwl/jjmndb/lzlwstch/jvwfwrg]: Add 130055 bytes = 130055
+Line: [$ cd ..]
+new dir: /vglf/hnnw/jwl/jjmndb/lzlwstch, depth:5
+Line: [$ cd ndpbn]
+new dir: /vglf/hnnw/jwl/jjmndb/lzlwstch/ndpbn, depth:6
+Line: [$ ls]
+Line: [160215 hptz.zms]
+Dir: [/vglf/hnnw/jwl/jjmndb/lzlwstch/ndpbn]: Add 160215 bytes = 160215
+Line: [$ cd ..]
+new dir: /vglf/hnnw/jwl/jjmndb/lzlwstch, depth:5
+Line: [$ cd qllzhd]
+new dir: /vglf/hnnw/jwl/jjmndb/lzlwstch/qllzhd, depth:6
+Line: [$ ls]
+Line: [41306 hwnllpw.vjp]
+Dir: [/vglf/hnnw/jwl/jjmndb/lzlwstch/qllzhd]: Add 41306 bytes = 41306
+Line: [162845 vrdbrwp.dss]
+Dir: [/vglf/hnnw/jwl/jjmndb/lzlwstch/qllzhd]: Add 162845 bytes = 204151
+Line: [$ cd ..]
+new dir: /vglf/hnnw/jwl/jjmndb/lzlwstch, depth:5
+Line: [$ cd ..]
+new dir: /vglf/hnnw/jwl/jjmndb, depth:4
+Line: [$ cd qldfrhm]
+new dir: /vglf/hnnw/jwl/jjmndb/qldfrhm, depth:5
+Line: [$ ls]
+Line: [dir bwcg]
+Dir [/vglf/hnnw/jwl/jjmndb/qldfrhm]: Add bwcg/
+Line: [dir ffhwwg]
+Dir [/vglf/hnnw/jwl/jjmndb/qldfrhm]: Add ffhwwg/
+Line: [$ cd bwcg]
+new dir: /vglf/hnnw/jwl/jjmndb/qldfrhm/bwcg, depth:6
+Line: [$ ls]
+Line: [181254 wpzpd]
+Dir: [/vglf/hnnw/jwl/jjmndb/qldfrhm/bwcg]: Add 181254 bytes = 181254
+Line: [$ cd ..]
+new dir: /vglf/hnnw/jwl/jjmndb/qldfrhm, depth:5
+Line: [$ cd ffhwwg]
+new dir: /vglf/hnnw/jwl/jjmndb/qldfrhm/ffhwwg, depth:6
+Line: [$ ls]
+Line: [240618 cdmlz.wsf]
+Dir: [/vglf/hnnw/jwl/jjmndb/qldfrhm/ffhwwg]: Add 240618 bytes = 240618
+Line: [dir ffhwwg]
+Dir [/vglf/hnnw/jwl/jjmndb/qldfrhm/ffhwwg]: Add ffhwwg/
+Line: [201345 jfww]
+Dir: [/vglf/hnnw/jwl/jjmndb/qldfrhm/ffhwwg]: Add 201345 bytes = 441963
+Line: [128709 jwl.gwc]
+Dir: [/vglf/hnnw/jwl/jjmndb/qldfrhm/ffhwwg]: Add 128709 bytes = 570672
+Line: [284209 pswsrf.wwt]
+Dir: [/vglf/hnnw/jwl/jjmndb/qldfrhm/ffhwwg]: Add 284209 bytes = 854881
+Line: [dir qldfrhm]
+Dir [/vglf/hnnw/jwl/jjmndb/qldfrhm/ffhwwg]: Add qldfrhm/
+Line: [$ cd ffhwwg]
+new dir: /vglf/hnnw/jwl/jjmndb/qldfrhm/ffhwwg/ffhwwg, depth:7
+Line: [$ ls]
+Line: [13278 wcc.qmr]
+Dir: [/vglf/hnnw/jwl/jjmndb/qldfrhm/ffhwwg/ffhwwg]: Add 13278 bytes = 13278
+Line: [165094 wdqqqv.pcr]
+Dir: [/vglf/hnnw/jwl/jjmndb/qldfrhm/ffhwwg/ffhwwg]: Add 165094 bytes = 178372
+Line: [$ cd ..]
+new dir: /vglf/hnnw/jwl/jjmndb/qldfrhm/ffhwwg, depth:6
+Line: [$ cd qldfrhm]
+new dir: /vglf/hnnw/jwl/jjmndb/qldfrhm/ffhwwg/qldfrhm, depth:7
+Line: [$ ls]
+Line: [104797 ccgfmcnc.jrg]
+Dir: [/vglf/hnnw/jwl/jjmndb/qldfrhm/ffhwwg/qldfrhm]: Add 104797 bytes = 104797
+Line: [273814 hlw.pnt]
+Dir: [/vglf/hnnw/jwl/jjmndb/qldfrhm/ffhwwg/qldfrhm]: Add 273814 bytes = 378611
+Line: [182685 jvwfwrg.szl]
+Dir: [/vglf/hnnw/jwl/jjmndb/qldfrhm/ffhwwg/qldfrhm]: Add 182685 bytes = 561296
+Line: [190595 stjhgqd]
+Dir: [/vglf/hnnw/jwl/jjmndb/qldfrhm/ffhwwg/qldfrhm]: Add 190595 bytes = 751891
+Line: [dir stpvb]
+Dir [/vglf/hnnw/jwl/jjmndb/qldfrhm/ffhwwg/qldfrhm]: Add stpvb/
+Line: [105499 vbqw.vwc]
+Dir: [/vglf/hnnw/jwl/jjmndb/qldfrhm/ffhwwg/qldfrhm]: Add 105499 bytes = 857390
+Line: [dir zldj]
+Dir [/vglf/hnnw/jwl/jjmndb/qldfrhm/ffhwwg/qldfrhm]: Add zldj/
+Line: [$ cd stpvb]
+new dir: /vglf/hnnw/jwl/jjmndb/qldfrhm/ffhwwg/qldfrhm/stpvb, depth:8
+Line: [$ ls]
+Line: [221672 vrdbrwp.dss]
+Dir: [/vglf/hnnw/jwl/jjmndb/qldfrhm/ffhwwg/qldfrhm/stpvb]: Add 221672 bytes = 221672
+Line: [$ cd ..]
+new dir: /vglf/hnnw/jwl/jjmndb/qldfrhm/ffhwwg/qldfrhm, depth:7
+Line: [$ cd zldj]
+new dir: /vglf/hnnw/jwl/jjmndb/qldfrhm/ffhwwg/qldfrhm/zldj, depth:8
+Line: [$ ls]
+Line: [dir jwl]
+Dir [/vglf/hnnw/jwl/jjmndb/qldfrhm/ffhwwg/qldfrhm/zldj]: Add jwl/
+Line: [$ cd jwl]
+new dir: /vglf/hnnw/jwl/jjmndb/qldfrhm/ffhwwg/qldfrhm/zldj/jwl, depth:9
+Line: [$ ls]
+Line: [130858 jhqhfrbp.nff]
+Dir: [/vglf/hnnw/jwl/jjmndb/qldfrhm/ffhwwg/qldfrhm/zldj/jwl]: Add 130858 bytes = 130858
+Line: [$ cd ..]
+new dir: /vglf/hnnw/jwl/jjmndb/qldfrhm/ffhwwg/qldfrhm/zldj, depth:8
+Line: [$ cd ..]
+new dir: /vglf/hnnw/jwl/jjmndb/qldfrhm/ffhwwg/qldfrhm, depth:7
+Line: [$ cd ..]
+new dir: /vglf/hnnw/jwl/jjmndb/qldfrhm/ffhwwg, depth:6
+Line: [$ cd ..]
+new dir: /vglf/hnnw/jwl/jjmndb/qldfrhm, depth:5
+Line: [$ cd ..]
+new dir: /vglf/hnnw/jwl/jjmndb, depth:4
+Line: [$ cd ssh]
+new dir: /vglf/hnnw/jwl/jjmndb/ssh, depth:5
+Line: [$ ls]
+Line: [65814 jfgbmb.qsd]
+Dir: [/vglf/hnnw/jwl/jjmndb/ssh]: Add 65814 bytes = 65814
+Line: [dir jvwfwrg]
+Dir [/vglf/hnnw/jwl/jjmndb/ssh]: Add jvwfwrg/
+Line: [70744 zqhftjbs.jwd]
+Dir: [/vglf/hnnw/jwl/jjmndb/ssh]: Add 70744 bytes = 136558
+Line: [$ cd jvwfwrg]
+new dir: /vglf/hnnw/jwl/jjmndb/ssh/jvwfwrg, depth:6
+Line: [$ ls]
+Line: [212356 jfgf.szv]
+Dir: [/vglf/hnnw/jwl/jjmndb/ssh/jvwfwrg]: Add 212356 bytes = 212356
+Line: [$ cd ..]
+new dir: /vglf/hnnw/jwl/jjmndb/ssh, depth:5
+Line: [$ cd ..]
+new dir: /vglf/hnnw/jwl/jjmndb, depth:4
+Line: [$ cd tbdhtqn]
+new dir: /vglf/hnnw/jwl/jjmndb/tbdhtqn, depth:5
+Line: [$ ls]
+Line: [37228 ffhwwg.vvc]
+Dir: [/vglf/hnnw/jwl/jjmndb/tbdhtqn]: Add 37228 bytes = 37228
+Line: [69069 nrtgtbmp.qlv]
+Dir: [/vglf/hnnw/jwl/jjmndb/tbdhtqn]: Add 69069 bytes = 106297
+Line: [dir rmrwm]
+Dir [/vglf/hnnw/jwl/jjmndb/tbdhtqn]: Add rmrwm/
+Line: [166294 zldbq]
+Dir: [/vglf/hnnw/jwl/jjmndb/tbdhtqn]: Add 166294 bytes = 272591
+Line: [$ cd rmrwm]
+new dir: /vglf/hnnw/jwl/jjmndb/tbdhtqn/rmrwm, depth:6
+Line: [$ ls]
+Line: [118846 qldfrhm.hns]
+Dir: [/vglf/hnnw/jwl/jjmndb/tbdhtqn/rmrwm]: Add 118846 bytes = 118846
+Line: [$ cd ..]
+new dir: /vglf/hnnw/jwl/jjmndb/tbdhtqn, depth:5
+Line: [$ cd ..]
+new dir: /vglf/hnnw/jwl/jjmndb, depth:4
+Line: [$ cd ..]
+new dir: /vglf/hnnw/jwl, depth:3
+Line: [$ cd pjzqjbd]
+new dir: /vglf/hnnw/jwl/pjzqjbd, depth:4
+Line: [$ ls]
+Line: [259092 cqlfdc.qdp]
+Dir: [/vglf/hnnw/jwl/pjzqjbd]: Add 259092 bytes = 259092
+Line: [89322 nmpvmdlp]
+Dir: [/vglf/hnnw/jwl/pjzqjbd]: Add 89322 bytes = 348414
+Line: [$ cd ..]
+new dir: /vglf/hnnw/jwl, depth:3
+Line: [$ cd pmslv]
+new dir: /vglf/hnnw/jwl/pmslv, depth:4
+Line: [$ ls]
+Line: [82637 jwl.lhz]
+Dir: [/vglf/hnnw/jwl/pmslv]: Add 82637 bytes = 82637
+Line: [$ cd ..]
+new dir: /vglf/hnnw/jwl, depth:3
+Line: [$ cd smfg]
+new dir: /vglf/hnnw/jwl/smfg, depth:4
+Line: [$ ls]
+Line: [dir gfbpcr]
+Dir [/vglf/hnnw/jwl/smfg]: Add gfbpcr/
+Line: [dir sghtlzqv]
+Dir [/vglf/hnnw/jwl/smfg]: Add sghtlzqv/
+Line: [$ cd gfbpcr]
+new dir: /vglf/hnnw/jwl/smfg/gfbpcr, depth:5
+Line: [$ ls]
+Line: [23958 hnpgr.htf]
+Dir: [/vglf/hnnw/jwl/smfg/gfbpcr]: Add 23958 bytes = 23958
+Line: [$ cd ..]
+new dir: /vglf/hnnw/jwl/smfg, depth:4
+Line: [$ cd sghtlzqv]
+new dir: /vglf/hnnw/jwl/smfg/sghtlzqv, depth:5
+Line: [$ ls]
+Line: [275943 jfgbmb.qsd]
+Dir: [/vglf/hnnw/jwl/smfg/sghtlzqv]: Add 275943 bytes = 275943
+Line: [149592 qwqlzvzv]
+Dir: [/vglf/hnnw/jwl/smfg/sghtlzqv]: Add 149592 bytes = 425535
+Line: [285215 sgptfc.msd]
+Dir: [/vglf/hnnw/jwl/smfg/sghtlzqv]: Add 285215 bytes = 710750
+Line: [179076 zldbq]
+Dir: [/vglf/hnnw/jwl/smfg/sghtlzqv]: Add 179076 bytes = 889826
+Line: [$ cd ..]
+new dir: /vglf/hnnw/jwl/smfg, depth:4
+Line: [$ cd ..]
+new dir: /vglf/hnnw/jwl, depth:3
+Line: [$ cd wmjjwh]
+new dir: /vglf/hnnw/jwl/wmjjwh, depth:4
+Line: [$ ls]
+Line: [198333 jfgbmb.qsd]
+Dir: [/vglf/hnnw/jwl/wmjjwh]: Add 198333 bytes = 198333
+Line: [59553 qwqlzvzv]
+Dir: [/vglf/hnnw/jwl/wmjjwh]: Add 59553 bytes = 257886
+Line: [91883 wdqqqv.pcr]
+Dir: [/vglf/hnnw/jwl/wmjjwh]: Add 91883 bytes = 349769
+Line: [7054 zldbq]
+Dir: [/vglf/hnnw/jwl/wmjjwh]: Add 7054 bytes = 356823
+Line: [$ cd ..]
+new dir: /vglf/hnnw/jwl, depth:3
+Line: [$ cd ..]
+new dir: /vglf/hnnw, depth:2
+Line: [$ cd shdt]
+new dir: /vglf/hnnw/shdt, depth:3
+Line: [$ ls]
+Line: [27781 hlw.vcl]
+Dir: [/vglf/hnnw/shdt]: Add 27781 bytes = 27781
+Line: [255994 jpd]
+Dir: [/vglf/hnnw/shdt]: Add 255994 bytes = 283775
+Line: [dir mrgppm]
+Dir [/vglf/hnnw/shdt]: Add mrgppm/
+Line: [dir mwvgmjmb]
+Dir [/vglf/hnnw/shdt]: Add mwvgmjmb/
+Line: [dir nsbrbcq]
+Dir [/vglf/hnnw/shdt]: Add nsbrbcq/
+Line: [263384 rbwbqf.qjc]
+Dir: [/vglf/hnnw/shdt]: Add 263384 bytes = 547159
+Line: [251640 tgr.rdc]
+Dir: [/vglf/hnnw/shdt]: Add 251640 bytes = 798799
+Line: [16959 zldbq]
+Dir: [/vglf/hnnw/shdt]: Add 16959 bytes = 815758
+Line: [$ cd mrgppm]
+new dir: /vglf/hnnw/shdt/mrgppm, depth:4
+Line: [$ ls]
+Line: [dir ghzhzzp]
+Dir [/vglf/hnnw/shdt/mrgppm]: Add ghzhzzp/
+Line: [dir jwl]
+Dir [/vglf/hnnw/shdt/mrgppm]: Add jwl/
+Line: [dir tgpm]
+Dir [/vglf/hnnw/shdt/mrgppm]: Add tgpm/
+Line: [$ cd ghzhzzp]
+new dir: /vglf/hnnw/shdt/mrgppm/ghzhzzp, depth:5
+Line: [$ ls]
+Line: [dir bqplqq]
+Dir [/vglf/hnnw/shdt/mrgppm/ghzhzzp]: Add bqplqq/
+Line: [dir vtqgwsj]
+Dir [/vglf/hnnw/shdt/mrgppm/ghzhzzp]: Add vtqgwsj/
+Line: [$ cd bqplqq]
+new dir: /vglf/hnnw/shdt/mrgppm/ghzhzzp/bqplqq, depth:6
+Line: [$ ls]
+Line: [234131 lntldzhp]
+Dir: [/vglf/hnnw/shdt/mrgppm/ghzhzzp/bqplqq]: Add 234131 bytes = 234131
+Line: [$ cd ..]
+new dir: /vglf/hnnw/shdt/mrgppm/ghzhzzp, depth:5
+Line: [$ cd vtqgwsj]
+new dir: /vglf/hnnw/shdt/mrgppm/ghzhzzp/vtqgwsj, depth:6
+Line: [$ ls]
+Line: [260109 qrzrfzr]
+Dir: [/vglf/hnnw/shdt/mrgppm/ghzhzzp/vtqgwsj]: Add 260109 bytes = 260109
+Line: [$ cd ..]
+new dir: /vglf/hnnw/shdt/mrgppm/ghzhzzp, depth:5
+Line: [$ cd ..]
+new dir: /vglf/hnnw/shdt/mrgppm, depth:4
+Line: [$ cd jwl]
+new dir: /vglf/hnnw/shdt/mrgppm/jwl, depth:5
+Line: [$ ls]
+Line: [112258 ffhwwg.wvp]
+Dir: [/vglf/hnnw/shdt/mrgppm/jwl]: Add 112258 bytes = 112258
+Line: [$ cd ..]
+new dir: /vglf/hnnw/shdt/mrgppm, depth:4
+Line: [$ cd tgpm]
+new dir: /vglf/hnnw/shdt/mrgppm/tgpm, depth:5
+Line: [$ ls]
+Line: [dir hlw]
+Dir [/vglf/hnnw/shdt/mrgppm/tgpm]: Add hlw/
+Line: [167788 zldbq]
+Dir: [/vglf/hnnw/shdt/mrgppm/tgpm]: Add 167788 bytes = 167788
+Line: [$ cd hlw]
+new dir: /vglf/hnnw/shdt/mrgppm/tgpm/hlw, depth:6
+Line: [$ ls]
+Line: [70960 qwqlzvzv]
+Dir: [/vglf/hnnw/shdt/mrgppm/tgpm/hlw]: Add 70960 bytes = 70960
+Line: [$ cd ..]
+new dir: /vglf/hnnw/shdt/mrgppm/tgpm, depth:5
+Line: [$ cd ..]
+new dir: /vglf/hnnw/shdt/mrgppm, depth:4
+Line: [$ cd ..]
+new dir: /vglf/hnnw/shdt, depth:3
+Line: [$ cd mwvgmjmb]
+new dir: /vglf/hnnw/shdt/mwvgmjmb, depth:4
+Line: [$ ls]
+Line: [142087 pvpw.wtv]
+Dir: [/vglf/hnnw/shdt/mwvgmjmb]: Add 142087 bytes = 142087
+Line: [$ cd ..]
+new dir: /vglf/hnnw/shdt, depth:3
+Line: [$ cd nsbrbcq]
+new dir: /vglf/hnnw/shdt/nsbrbcq, depth:4
+Line: [$ ls]
+Line: [dir hljjp]
+Dir [/vglf/hnnw/shdt/nsbrbcq]: Add hljjp/
+Line: [$ cd hljjp]
+new dir: /vglf/hnnw/shdt/nsbrbcq/hljjp, depth:5
+Line: [$ ls]
+Line: [125853 jfgbmb.qsd]
+Dir: [/vglf/hnnw/shdt/nsbrbcq/hljjp]: Add 125853 bytes = 125853
+Line: [$ cd ..]
+new dir: /vglf/hnnw/shdt/nsbrbcq, depth:4
+Line: [$ cd ..]
+new dir: /vglf/hnnw/shdt, depth:3
+Line: [$ cd ..]
+new dir: /vglf/hnnw, depth:2
+Line: [$ cd ..]
+new dir: /vglf, depth:1
+Line: [$ cd htqzfcc]
+new dir: /vglf/htqzfcc, depth:2
+Line: [$ ls]
+Line: [dir cqs]
+Dir [/vglf/htqzfcc]: Add cqs/
+Line: [dir dsnpcnv]
+Dir [/vglf/htqzfcc]: Add dsnpcnv/
+Line: [dir ffhwwg]
+Dir [/vglf/htqzfcc]: Add ffhwwg/
+Line: [90664 jfgbmb.qsd]
+Dir: [/vglf/htqzfcc]: Add 90664 bytes = 90664
+Line: [92316 lsjtfbvt]
+Dir: [/vglf/htqzfcc]: Add 92316 bytes = 182980
+Line: [dir mftm]
+Dir [/vglf/htqzfcc]: Add mftm/
+Line: [dir mmgn]
+Dir [/vglf/htqzfcc]: Add mmgn/
+Line: [dir qqvzvw]
+Dir [/vglf/htqzfcc]: Add qqvzvw/
+Line: [166400 qwqlzvzv]
+Dir: [/vglf/htqzfcc]: Add 166400 bytes = 349380
+Line: [dir vtf]
+Dir [/vglf/htqzfcc]: Add vtf/
+Line: [dir wrbwbdt]
+Dir [/vglf/htqzfcc]: Add wrbwbdt/
+Line: [$ cd cqs]
+new dir: /vglf/htqzfcc/cqs, depth:3
+Line: [$ ls]
+Line: [232548 nnv.wph]
+Dir: [/vglf/htqzfcc/cqs]: Add 232548 bytes = 232548
+Line: [35933 rwqj.crp]
+Dir: [/vglf/htqzfcc/cqs]: Add 35933 bytes = 268481
+Line: [$ cd ..]
+new dir: /vglf/htqzfcc, depth:2
+Line: [$ cd dsnpcnv]
+new dir: /vglf/htqzfcc/dsnpcnv, depth:3
+Line: [$ ls]
+Line: [115805 ffhwwg.tvt]
+Dir: [/vglf/htqzfcc/dsnpcnv]: Add 115805 bytes = 115805
+Line: [$ cd ..]
+new dir: /vglf/htqzfcc, depth:2
+Line: [$ cd ffhwwg]
+new dir: /vglf/htqzfcc/ffhwwg, depth:3
+Line: [$ ls]
+Line: [dir qldfrhm]
+Dir [/vglf/htqzfcc/ffhwwg]: Add qldfrhm/
+Line: [dir wjj]
+Dir [/vglf/htqzfcc/ffhwwg]: Add wjj/
+Line: [$ cd qldfrhm]
+new dir: /vglf/htqzfcc/ffhwwg/qldfrhm, depth:4
+Line: [$ ls]
+Line: [221567 qwqlzvzv]
+Dir: [/vglf/htqzfcc/ffhwwg/qldfrhm]: Add 221567 bytes = 221567
+Line: [dir rsztzjcm]
+Dir [/vglf/htqzfcc/ffhwwg/qldfrhm]: Add rsztzjcm/
+Line: [33248 vrdbrwp.dss]
+Dir: [/vglf/htqzfcc/ffhwwg/qldfrhm]: Add 33248 bytes = 254815
+Line: [114731 wdqqqv.pcr]
+Dir: [/vglf/htqzfcc/ffhwwg/qldfrhm]: Add 114731 bytes = 369546
+Line: [276521 zldbq]
+Dir: [/vglf/htqzfcc/ffhwwg/qldfrhm]: Add 276521 bytes = 646067
+Line: [$ cd rsztzjcm]
+new dir: /vglf/htqzfcc/ffhwwg/qldfrhm/rsztzjcm, depth:5
+Line: [$ ls]
+Line: [268313 frdpwjsh.wsh]
+Dir: [/vglf/htqzfcc/ffhwwg/qldfrhm/rsztzjcm]: Add 268313 bytes = 268313
+Line: [283644 jfgbmb.qsd]
+Dir: [/vglf/htqzfcc/ffhwwg/qldfrhm/rsztzjcm]: Add 283644 bytes = 551957
+Line: [dir jhdcdm]
+Dir [/vglf/htqzfcc/ffhwwg/qldfrhm/rsztzjcm]: Add jhdcdm/
+Line: [84130 jvwfwrg.vsd]
+Dir: [/vglf/htqzfcc/ffhwwg/qldfrhm/rsztzjcm]: Add 84130 bytes = 636087
+Line: [31286 jwl.rth]
+Dir: [/vglf/htqzfcc/ffhwwg/qldfrhm/rsztzjcm]: Add 31286 bytes = 667373
+Line: [$ cd jhdcdm]
+new dir: /vglf/htqzfcc/ffhwwg/qldfrhm/rsztzjcm/jhdcdm, depth:6
+Line: [$ ls]
+Line: [212461 qwqlzvzv]
+Dir: [/vglf/htqzfcc/ffhwwg/qldfrhm/rsztzjcm/jhdcdm]: Add 212461 bytes = 212461
+Line: [$ cd ..]
+new dir: /vglf/htqzfcc/ffhwwg/qldfrhm/rsztzjcm, depth:5
+Line: [$ cd ..]
+new dir: /vglf/htqzfcc/ffhwwg/qldfrhm, depth:4
+Line: [$ cd ..]
+new dir: /vglf/htqzfcc/ffhwwg, depth:3
+Line: [$ cd wjj]
+new dir: /vglf/htqzfcc/ffhwwg/wjj, depth:4
+Line: [$ ls]
+Line: [89758 jvwfwrg.mmg]
+Dir: [/vglf/htqzfcc/ffhwwg/wjj]: Add 89758 bytes = 89758
+Line: [163105 vrdbrwp.dss]
+Dir: [/vglf/htqzfcc/ffhwwg/wjj]: Add 163105 bytes = 252863
+Line: [$ cd ..]
+new dir: /vglf/htqzfcc/ffhwwg, depth:3
+Line: [$ cd ..]
+new dir: /vglf/htqzfcc, depth:2
+Line: [$ cd mftm]
+new dir: /vglf/htqzfcc/mftm, depth:3
+Line: [$ ls]
+Line: [278389 bbth.bht]
+Dir: [/vglf/htqzfcc/mftm]: Add 278389 bytes = 278389
+Line: [$ cd ..]
+new dir: /vglf/htqzfcc, depth:2
+Line: [$ cd mmgn]
+new dir: /vglf/htqzfcc/mmgn, depth:3
+Line: [$ ls]
+Line: [28122 zldbq]
+Dir: [/vglf/htqzfcc/mmgn]: Add 28122 bytes = 28122
+Line: [$ cd ..]
+new dir: /vglf/htqzfcc, depth:2
+Line: [$ cd qqvzvw]
+new dir: /vglf/htqzfcc/qqvzvw, depth:3
+Line: [$ ls]
+Line: [dir mjw]
+Dir [/vglf/htqzfcc/qqvzvw]: Add mjw/
+Line: [dir qldfrhm]
+Dir [/vglf/htqzfcc/qqvzvw]: Add qldfrhm/
+Line: [dir zbmpdwtc]
+Dir [/vglf/htqzfcc/qqvzvw]: Add zbmpdwtc/
+Line: [$ cd mjw]
+new dir: /vglf/htqzfcc/qqvzvw/mjw, depth:4
+Line: [$ ls]
+Line: [dir cvn]
+Dir [/vglf/htqzfcc/qqvzvw/mjw]: Add cvn/
+Line: [dir dlgzc]
+Dir [/vglf/htqzfcc/qqvzvw/mjw]: Add dlgzc/
+Line: [10631 jfgbmb.qsd]
+Dir: [/vglf/htqzfcc/qqvzvw/mjw]: Add 10631 bytes = 10631
+Line: [206351 qldfrhm.hgf]
+Dir: [/vglf/htqzfcc/qqvzvw/mjw]: Add 206351 bytes = 216982
+Line: [136824 qwqlzvzv]
+Dir: [/vglf/htqzfcc/qqvzvw/mjw]: Add 136824 bytes = 353806
+Line: [116870 qwzczrcf]
+Dir: [/vglf/htqzfcc/qqvzvw/mjw]: Add 116870 bytes = 470676
+Line: [$ cd cvn]
+new dir: /vglf/htqzfcc/qqvzvw/mjw/cvn, depth:5
+Line: [$ ls]
+Line: [146142 ggtd.jlp]
+Dir: [/vglf/htqzfcc/qqvzvw/mjw/cvn]: Add 146142 bytes = 146142
+Line: [$ cd ..]
+new dir: /vglf/htqzfcc/qqvzvw/mjw, depth:4
+Line: [$ cd dlgzc]
+new dir: /vglf/htqzfcc/qqvzvw/mjw/dlgzc, depth:5
+Line: [$ ls]
+Line: [130120 wpc]
+Dir: [/vglf/htqzfcc/qqvzvw/mjw/dlgzc]: Add 130120 bytes = 130120
+Line: [$ cd ..]
+new dir: /vglf/htqzfcc/qqvzvw/mjw, depth:4
+Line: [$ cd ..]
+new dir: /vglf/htqzfcc/qqvzvw, depth:3
+Line: [$ cd qldfrhm]
+new dir: /vglf/htqzfcc/qqvzvw/qldfrhm, depth:4
+Line: [$ ls]
+Line: [260238 bpf.jbv]
+Dir: [/vglf/htqzfcc/qqvzvw/qldfrhm]: Add 260238 bytes = 260238
+Line: [270180 cwdnf]
+Dir: [/vglf/htqzfcc/qqvzvw/qldfrhm]: Add 270180 bytes = 530418
+Line: [dir czwwzj]
+Dir [/vglf/htqzfcc/qqvzvw/qldfrhm]: Add czwwzj/
+Line: [50884 jvwfwrg.fmq]
+Dir: [/vglf/htqzfcc/qqvzvw/qldfrhm]: Add 50884 bytes = 581302
+Line: [dir mjpzgbww]
+Dir [/vglf/htqzfcc/qqvzvw/qldfrhm]: Add mjpzgbww/
+Line: [252028 qtdzw.bmb]
+Dir: [/vglf/htqzfcc/qqvzvw/qldfrhm]: Add 252028 bytes = 833330
+Line: [dir rzqj]
+Dir [/vglf/htqzfcc/qqvzvw/qldfrhm]: Add rzqj/
+Line: [$ cd czwwzj]
+new dir: /vglf/htqzfcc/qqvzvw/qldfrhm/czwwzj, depth:5
+Line: [$ ls]
+Line: [dir cpwwqrph]
+Dir [/vglf/htqzfcc/qqvzvw/qldfrhm/czwwzj]: Add cpwwqrph/
+Line: [19863 jfgbmb.qsd]
+Dir: [/vglf/htqzfcc/qqvzvw/qldfrhm/czwwzj]: Add 19863 bytes = 19863
+Line: [dir snl]
+Dir [/vglf/htqzfcc/qqvzvw/qldfrhm/czwwzj]: Add snl/
+Line: [83915 vrdbrwp.dss]
+Dir: [/vglf/htqzfcc/qqvzvw/qldfrhm/czwwzj]: Add 83915 bytes = 103778
+Line: [$ cd cpwwqrph]
+new dir: /vglf/htqzfcc/qqvzvw/qldfrhm/czwwzj/cpwwqrph, depth:6
+Line: [$ ls]
+Line: [dir jvwfwrg]
+Dir [/vglf/htqzfcc/qqvzvw/qldfrhm/czwwzj/cpwwqrph]: Add jvwfwrg/
+Line: [$ cd jvwfwrg]
+new dir: /vglf/htqzfcc/qqvzvw/qldfrhm/czwwzj/cpwwqrph/jvwfwrg, depth:7
+Line: [$ ls]
+Line: [176717 jfgbmb.qsd]
+Dir: [/vglf/htqzfcc/qqvzvw/qldfrhm/czwwzj/cpwwqrph/jvwfwrg]: Add 176717 bytes = 176717
+Line: [$ cd ..]
+new dir: /vglf/htqzfcc/qqvzvw/qldfrhm/czwwzj/cpwwqrph, depth:6
+Line: [$ cd ..]
+new dir: /vglf/htqzfcc/qqvzvw/qldfrhm/czwwzj, depth:5
+Line: [$ cd snl]
+new dir: /vglf/htqzfcc/qqvzvw/qldfrhm/czwwzj/snl, depth:6
+Line: [$ ls]
+Line: [dir btngcvt]
+Dir [/vglf/htqzfcc/qqvzvw/qldfrhm/czwwzj/snl]: Add btngcvt/
+Line: [dir ffhwwg]
+Dir [/vglf/htqzfcc/qqvzvw/qldfrhm/czwwzj/snl]: Add ffhwwg/
+Line: [53428 gchwbc.jtf]
+Dir: [/vglf/htqzfcc/qqvzvw/qldfrhm/czwwzj/snl]: Add 53428 bytes = 53428
+Line: [220232 vrdbrwp.dss]
+Dir: [/vglf/htqzfcc/qqvzvw/qldfrhm/czwwzj/snl]: Add 220232 bytes = 273660
+Line: [$ cd btngcvt]
+new dir: /vglf/htqzfcc/qqvzvw/qldfrhm/czwwzj/snl/btngcvt, depth:7
+Line: [$ ls]
+Line: [172859 jwl.smp]
+Dir: [/vglf/htqzfcc/qqvzvw/qldfrhm/czwwzj/snl/btngcvt]: Add 172859 bytes = 172859
+Line: [dir tgcqmbrn]
+Dir [/vglf/htqzfcc/qqvzvw/qldfrhm/czwwzj/snl/btngcvt]: Add tgcqmbrn/
+Line: [$ cd tgcqmbrn]
+new dir: /vglf/htqzfcc/qqvzvw/qldfrhm/czwwzj/snl/btngcvt/tgcqmbrn, depth:8
+Line: [$ ls]
+Line: [149905 jvwfwrg]
+Dir: [/vglf/htqzfcc/qqvzvw/qldfrhm/czwwzj/snl/btngcvt/tgcqmbrn]: Add 149905 bytes = 149905
+Line: [$ cd ..]
+new dir: /vglf/htqzfcc/qqvzvw/qldfrhm/czwwzj/snl/btngcvt, depth:7
+Line: [$ cd ..]
+new dir: /vglf/htqzfcc/qqvzvw/qldfrhm/czwwzj/snl, depth:6
+Line: [$ cd ffhwwg]
+new dir: /vglf/htqzfcc/qqvzvw/qldfrhm/czwwzj/snl/ffhwwg, depth:7
+Line: [$ ls]
+Line: [145399 qldfrhm.hbg]
+Dir: [/vglf/htqzfcc/qqvzvw/qldfrhm/czwwzj/snl/ffhwwg]: Add 145399 bytes = 145399
+Line: [$ cd ..]
+new dir: /vglf/htqzfcc/qqvzvw/qldfrhm/czwwzj/snl, depth:6
+Line: [$ cd ..]
+new dir: /vglf/htqzfcc/qqvzvw/qldfrhm/czwwzj, depth:5
+Line: [$ cd ..]
+new dir: /vglf/htqzfcc/qqvzvw/qldfrhm, depth:4
+Line: [$ cd mjpzgbww]
+new dir: /vglf/htqzfcc/qqvzvw/qldfrhm/mjpzgbww, depth:5
+Line: [$ ls]
+Line: [52355 bwzwfjtc.rmn]
+Dir: [/vglf/htqzfcc/qqvzvw/qldfrhm/mjpzgbww]: Add 52355 bytes = 52355
+Line: [5856 ffhwwg.tnh]
+Dir: [/vglf/htqzfcc/qqvzvw/qldfrhm/mjpzgbww]: Add 5856 bytes = 58211
+Line: [146211 scbdnlgl]
+Dir: [/vglf/htqzfcc/qqvzvw/qldfrhm/mjpzgbww]: Add 146211 bytes = 204422
+Line: [$ cd ..]
+new dir: /vglf/htqzfcc/qqvzvw/qldfrhm, depth:4
+Line: [$ cd rzqj]
+new dir: /vglf/htqzfcc/qqvzvw/qldfrhm/rzqj, depth:5
+Line: [$ ls]
+Line: [dir jmjszd]
+Dir [/vglf/htqzfcc/qqvzvw/qldfrhm/rzqj]: Add jmjszd/
+Line: [134481 vgr]
+Dir: [/vglf/htqzfcc/qqvzvw/qldfrhm/rzqj]: Add 134481 bytes = 134481
+Line: [187382 vrdbrwp.dss]
+Dir: [/vglf/htqzfcc/qqvzvw/qldfrhm/rzqj]: Add 187382 bytes = 321863
+Line: [$ cd jmjszd]
+new dir: /vglf/htqzfcc/qqvzvw/qldfrhm/rzqj/jmjszd, depth:6
+Line: [$ ls]
+Line: [81971 qldfrhm]
+Dir: [/vglf/htqzfcc/qqvzvw/qldfrhm/rzqj/jmjszd]: Add 81971 bytes = 81971
+Line: [$ cd ..]
+new dir: /vglf/htqzfcc/qqvzvw/qldfrhm/rzqj, depth:5
+Line: [$ cd ..]
+new dir: /vglf/htqzfcc/qqvzvw/qldfrhm, depth:4
+Line: [$ cd ..]
+new dir: /vglf/htqzfcc/qqvzvw, depth:3
+Line: [$ cd zbmpdwtc]
+new dir: /vglf/htqzfcc/qqvzvw/zbmpdwtc, depth:4
+Line: [$ ls]
+Line: [193744 jvntrn]
+Dir: [/vglf/htqzfcc/qqvzvw/zbmpdwtc]: Add 193744 bytes = 193744
+Line: [231403 qwqlzvzv]
+Dir: [/vglf/htqzfcc/qqvzvw/zbmpdwtc]: Add 231403 bytes = 425147
+Line: [$ cd ..]
+new dir: /vglf/htqzfcc/qqvzvw, depth:3
+Line: [$ cd ..]
+new dir: /vglf/htqzfcc, depth:2
+Line: [$ cd vtf]
+new dir: /vglf/htqzfcc/vtf, depth:3
+Line: [$ ls]
+Line: [2562 vzngcbq]
+Dir: [/vglf/htqzfcc/vtf]: Add 2562 bytes = 2562
+Line: [$ cd ..]
+new dir: /vglf/htqzfcc, depth:2
+Line: [$ cd wrbwbdt]
+new dir: /vglf/htqzfcc/wrbwbdt, depth:3
+Line: [$ ls]
+Line: [dir brzwbmc]
+Dir [/vglf/htqzfcc/wrbwbdt]: Add brzwbmc/
+Line: [29261 hlw]
+Dir: [/vglf/htqzfcc/wrbwbdt]: Add 29261 bytes = 29261
+Line: [$ cd brzwbmc]
+new dir: /vglf/htqzfcc/wrbwbdt/brzwbmc, depth:4
+Line: [$ ls]
+Line: [dir ggh]
+Dir [/vglf/htqzfcc/wrbwbdt/brzwbmc]: Add ggh/
+Line: [174287 jfgbmb.qsd]
+Dir: [/vglf/htqzfcc/wrbwbdt/brzwbmc]: Add 174287 bytes = 174287
+Line: [dir jwl]
+Dir [/vglf/htqzfcc/wrbwbdt/brzwbmc]: Add jwl/
+Line: [247329 mpdz]
+Dir: [/vglf/htqzfcc/wrbwbdt/brzwbmc]: Add 247329 bytes = 421616
+Line: [dir thm]
+Dir [/vglf/htqzfcc/wrbwbdt/brzwbmc]: Add thm/
+Line: [83546 vrdbrwp.dss]
+Dir: [/vglf/htqzfcc/wrbwbdt/brzwbmc]: Add 83546 bytes = 505162
+Line: [231269 wmwhhhmn.rms]
+Dir: [/vglf/htqzfcc/wrbwbdt/brzwbmc]: Add 231269 bytes = 736431
+Line: [$ cd ggh]
+new dir: /vglf/htqzfcc/wrbwbdt/brzwbmc/ggh, depth:5
+Line: [$ ls]
+Line: [dir cqrmsltg]
+Dir [/vglf/htqzfcc/wrbwbdt/brzwbmc/ggh]: Add cqrmsltg/
+Line: [18724 mrlwwdv.ffb]
+Dir: [/vglf/htqzfcc/wrbwbdt/brzwbmc/ggh]: Add 18724 bytes = 18724
+Line: [$ cd cqrmsltg]
+new dir: /vglf/htqzfcc/wrbwbdt/brzwbmc/ggh/cqrmsltg, depth:6
+Line: [$ ls]
+Line: [dir ffhwwg]
+Dir [/vglf/htqzfcc/wrbwbdt/brzwbmc/ggh/cqrmsltg]: Add ffhwwg/
+Line: [dir jvwfwrg]
+Dir [/vglf/htqzfcc/wrbwbdt/brzwbmc/ggh/cqrmsltg]: Add jvwfwrg/
+Line: [41263 pmrmh.zmn]
+Dir: [/vglf/htqzfcc/wrbwbdt/brzwbmc/ggh/cqrmsltg]: Add 41263 bytes = 41263
+Line: [dir tcjr]
+Dir [/vglf/htqzfcc/wrbwbdt/brzwbmc/ggh/cqrmsltg]: Add tcjr/
+Line: [$ cd ffhwwg]
+new dir: /vglf/htqzfcc/wrbwbdt/brzwbmc/ggh/cqrmsltg/ffhwwg, depth:7
+Line: [$ ls]
+Line: [dir hlw]
+Dir [/vglf/htqzfcc/wrbwbdt/brzwbmc/ggh/cqrmsltg/ffhwwg]: Add hlw/
+Line: [$ cd hlw]
+new dir: /vglf/htqzfcc/wrbwbdt/brzwbmc/ggh/cqrmsltg/ffhwwg/hlw, depth:8
+Line: [$ ls]
+Line: [139875 ljnfchr.frr]
+Dir: [/vglf/htqzfcc/wrbwbdt/brzwbmc/ggh/cqrmsltg/ffhwwg/hlw]: Add 139875 bytes = 139875
+Line: [$ cd ..]
+new dir: /vglf/htqzfcc/wrbwbdt/brzwbmc/ggh/cqrmsltg/ffhwwg, depth:7
+Line: [$ cd ..]
+new dir: /vglf/htqzfcc/wrbwbdt/brzwbmc/ggh/cqrmsltg, depth:6
+Line: [$ cd jvwfwrg]
+new dir: /vglf/htqzfcc/wrbwbdt/brzwbmc/ggh/cqrmsltg/jvwfwrg, depth:7
+Line: [$ ls]
+Line: [141078 zldbq]
+Dir: [/vglf/htqzfcc/wrbwbdt/brzwbmc/ggh/cqrmsltg/jvwfwrg]: Add 141078 bytes = 141078
+Line: [$ cd ..]
+new dir: /vglf/htqzfcc/wrbwbdt/brzwbmc/ggh/cqrmsltg, depth:6
+Line: [$ cd tcjr]
+new dir: /vglf/htqzfcc/wrbwbdt/brzwbmc/ggh/cqrmsltg/tcjr, depth:7
+Line: [$ ls]
+Line: [dir hnngpdc]
+Dir [/vglf/htqzfcc/wrbwbdt/brzwbmc/ggh/cqrmsltg/tcjr]: Add hnngpdc/
+Line: [153685 jwl]
+Dir: [/vglf/htqzfcc/wrbwbdt/brzwbmc/ggh/cqrmsltg/tcjr]: Add 153685 bytes = 153685
+Line: [93502 nwlsf.dbq]
+Dir: [/vglf/htqzfcc/wrbwbdt/brzwbmc/ggh/cqrmsltg/tcjr]: Add 93502 bytes = 247187
+Line: [226658 qwqlzvzv]
+Dir: [/vglf/htqzfcc/wrbwbdt/brzwbmc/ggh/cqrmsltg/tcjr]: Add 226658 bytes = 473845
+Line: [$ cd hnngpdc]
+new dir: /vglf/htqzfcc/wrbwbdt/brzwbmc/ggh/cqrmsltg/tcjr/hnngpdc, depth:8
+Line: [$ ls]
+Line: [243203 gchtc.sst]
+Dir: [/vglf/htqzfcc/wrbwbdt/brzwbmc/ggh/cqrmsltg/tcjr/hnngpdc]: Add 243203 bytes = 243203
+Line: [$ cd ..]
+new dir: /vglf/htqzfcc/wrbwbdt/brzwbmc/ggh/cqrmsltg/tcjr, depth:7
+Line: [$ cd ..]
+new dir: /vglf/htqzfcc/wrbwbdt/brzwbmc/ggh/cqrmsltg, depth:6
+Line: [$ cd ..]
+new dir: /vglf/htqzfcc/wrbwbdt/brzwbmc/ggh, depth:5
+Line: [$ cd ..]
+new dir: /vglf/htqzfcc/wrbwbdt/brzwbmc, depth:4
+Line: [$ cd jwl]
+new dir: /vglf/htqzfcc/wrbwbdt/brzwbmc/jwl, depth:5
+Line: [$ ls]
+Line: [62087 hfp.cfv]
+Dir: [/vglf/htqzfcc/wrbwbdt/brzwbmc/jwl]: Add 62087 bytes = 62087
+Line: [$ cd ..]
+new dir: /vglf/htqzfcc/wrbwbdt/brzwbmc, depth:4
+Line: [$ cd thm]
+new dir: /vglf/htqzfcc/wrbwbdt/brzwbmc/thm, depth:5
+Line: [$ ls]
+Line: [228008 dfqgcd.frc]
+Dir: [/vglf/htqzfcc/wrbwbdt/brzwbmc/thm]: Add 228008 bytes = 228008
+Line: [167850 glblcw]
+Dir: [/vglf/htqzfcc/wrbwbdt/brzwbmc/thm]: Add 167850 bytes = 395858
+Line: [dir jvwfwrg]
+Dir [/vglf/htqzfcc/wrbwbdt/brzwbmc/thm]: Add jvwfwrg/
+Line: [$ cd jvwfwrg]
+new dir: /vglf/htqzfcc/wrbwbdt/brzwbmc/thm/jvwfwrg, depth:6
+Line: [$ ls]
+Line: [dir ffhwwg]
+Dir [/vglf/htqzfcc/wrbwbdt/brzwbmc/thm/jvwfwrg]: Add ffhwwg/
+Line: [dir jgvf]
+Dir [/vglf/htqzfcc/wrbwbdt/brzwbmc/thm/jvwfwrg]: Add jgvf/
+Line: [170488 qmc.vgf]
+Dir: [/vglf/htqzfcc/wrbwbdt/brzwbmc/thm/jvwfwrg]: Add 170488 bytes = 170488
+Line: [$ cd ffhwwg]
+new dir: /vglf/htqzfcc/wrbwbdt/brzwbmc/thm/jvwfwrg/ffhwwg, depth:7
+Line: [$ ls]
+Line: [258985 jfgbmb.qsd]
+Dir: [/vglf/htqzfcc/wrbwbdt/brzwbmc/thm/jvwfwrg/ffhwwg]: Add 258985 bytes = 258985
+Line: [$ cd ..]
+new dir: /vglf/htqzfcc/wrbwbdt/brzwbmc/thm/jvwfwrg, depth:6
+Line: [$ cd jgvf]
+new dir: /vglf/htqzfcc/wrbwbdt/brzwbmc/thm/jvwfwrg/jgvf, depth:7
+Line: [$ ls]
+Line: [150671 rdplqftl]
+Dir: [/vglf/htqzfcc/wrbwbdt/brzwbmc/thm/jvwfwrg/jgvf]: Add 150671 bytes = 150671
+Line: [$ cd ..]
+new dir: /vglf/htqzfcc/wrbwbdt/brzwbmc/thm/jvwfwrg, depth:6
+Line: [$ cd ..]
+new dir: /vglf/htqzfcc/wrbwbdt/brzwbmc/thm, depth:5
+Line: [$ cd ..]
+new dir: /vglf/htqzfcc/wrbwbdt/brzwbmc, depth:4
+Line: [$ cd ..]
+new dir: /vglf/htqzfcc/wrbwbdt, depth:3
+Line: [$ cd ..]
+new dir: /vglf/htqzfcc, depth:2
+Line: [$ cd ..]
+new dir: /vglf, depth:1
+Line: [$ cd nqf]
+new dir: /vglf/nqf, depth:2
+Line: [$ ls]
+Line: [dir rglrpqd]
+Dir [/vglf/nqf]: Add rglrpqd/
+Line: [$ cd rglrpqd]
+new dir: /vglf/nqf/rglrpqd, depth:3
+Line: [$ ls]
+Line: [276785 nnbs.dhr]
+Dir: [/vglf/nqf/rglrpqd]: Add 276785 bytes = 276785
+Line: [224128 qwqlzvzv]
+Dir: [/vglf/nqf/rglrpqd]: Add 224128 bytes = 500913
+Line: [$ cd ..]
+new dir: /vglf/nqf, depth:2
+Line: [$ cd ..]
+new dir: /vglf, depth:1
+Line: [$ cd tvmqzwmn]
+new dir: /vglf/tvmqzwmn, depth:2
+Line: [$ ls]
+Line: [47655 jfgbmb.qsd]
+Dir: [/vglf/tvmqzwmn]: Add 47655 bytes = 47655
+Line: [233646 qwqlzvzv]
+Dir: [/vglf/tvmqzwmn]: Add 233646 bytes = 281301
+Line: [237245 rqfp]
+Dir: [/vglf/tvmqzwmn]: Add 237245 bytes = 518546
+Line: [185131 whntfvm.sfz]
+Dir: [/vglf/tvmqzwmn]: Add 185131 bytes = 703677
+[32m2022-12-07 21:20:42.277[0m [33mExamining: 171 directories...[0m
+[32m2022-12-07 21:20:42.277[0m [33mDirectory { name: "/", depth: 0, subdirs: ["fcqv", "fcv", "jvwfwrg", "tzwpllhq", "vglf"], local_bytes: 338443, subdir_bytes: 42338696 }[0m
+[32m2022-12-07 21:20:42.277[0m [33mDirectory { name: "/fcqv", depth: 1, subdirs: ["fhg", "thbb"], local_bytes: 546503, subdir_bytes: 854448 }[0m
+[32m2022-12-07 21:20:42.277[0m [33mDirectory { name: "/fcqv/fhg", depth: 2, subdirs: ["jljrdvw"], local_bytes: 0, subdir_bytes: 101940 }[0m
+[32m2022-12-07 21:20:42.277[0m [33mDirectory { name: "/fcqv/fhg/jljrdvw", depth: 3, subdirs: [], local_bytes: 101940, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.277[0m [33mDirectory { name: "/fcqv/thbb", depth: 2, subdirs: [], local_bytes: 752508, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.277[0m [33mDirectory { name: "/fcv", depth: 1, subdirs: ["ffhwwg", "vcqsrw", "znzpm"], local_bytes: 810416, subdir_bytes: 1168126 }[0m
+[32m2022-12-07 21:20:42.277[0m [33mDirectory { name: "/fcv/ffhwwg", depth: 2, subdirs: ["hlqf"], local_bytes: 0, subdir_bytes: 30443 }[0m
+[32m2022-12-07 21:20:42.277[0m [33mDirectory { name: "/fcv/ffhwwg/hlqf", depth: 3, subdirs: [], local_bytes: 30443, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.277[0m [33mDirectory { name: "/fcv/vcqsrw", depth: 2, subdirs: ["bzlnsjmv", "rvbtnz"], local_bytes: 479827, subdir_bytes: 438218 }[0m
+[32m2022-12-07 21:20:42.277[0m [33mDirectory { name: "/fcv/vcqsrw/bzlnsjmv", depth: 3, subdirs: [], local_bytes: 272548, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.277[0m [33mDirectory { name: "/fcv/vcqsrw/rvbtnz", depth: 3, subdirs: [], local_bytes: 165670, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.277[0m [33mDirectory { name: "/fcv/znzpm", depth: 2, subdirs: ["mjwnsw"], local_bytes: 0, subdir_bytes: 219638 }[0m
+[32m2022-12-07 21:20:42.277[0m [33mDirectory { name: "/fcv/znzpm/mjwnsw", depth: 3, subdirs: [], local_bytes: 219638, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.277[0m [33mDirectory { name: "/jvwfwrg", depth: 1, subdirs: ["ffhwwg", "hzjpg", "jwl", "nmz", "tdjtv", "wdn"], local_bytes: 285321, subdir_bytes: 9876475 }[0m
+[32m2022-12-07 21:20:42.277[0m [33mDirectory { name: "/jvwfwrg/ffhwwg", depth: 2, subdirs: [], local_bytes: 356258, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.277[0m [33mDirectory { name: "/jvwfwrg/hzjpg", depth: 2, subdirs: ["ddrwfq", "mqwww", "wctwz", "wlrmbtdg"], local_bytes: 744928, subdir_bytes: 1247080 }[0m
+[32m2022-12-07 21:20:42.277[0m [33mDirectory { name: "/jvwfwrg/hzjpg/ddrwfq", depth: 3, subdirs: [], local_bytes: 11756, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.277[0m [33mDirectory { name: "/jvwfwrg/hzjpg/mqwww", depth: 3, subdirs: [], local_bytes: 149750, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.277[0m [33mDirectory { name: "/jvwfwrg/hzjpg/wctwz", depth: 3, subdirs: [], local_bytes: 277720, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.277[0m [33mDirectory { name: "/jvwfwrg/hzjpg/wlrmbtdg", depth: 3, subdirs: ["hgdjv", "qldfrhm"], local_bytes: 323978, subdir_bytes: 483876 }[0m
+[32m2022-12-07 21:20:42.277[0m [33mDirectory { name: "/jvwfwrg/hzjpg/wlrmbtdg/hgdjv", depth: 4, subdirs: ["hlw"], local_bytes: 0, subdir_bytes: 229687 }[0m
+[32m2022-12-07 21:20:42.277[0m [33mDirectory { name: "/jvwfwrg/hzjpg/wlrmbtdg/hgdjv/hlw", depth: 5, subdirs: [], local_bytes: 229687, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.277[0m [33mDirectory { name: "/jvwfwrg/hzjpg/wlrmbtdg/qldfrhm", depth: 4, subdirs: [], local_bytes: 254189, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.277[0m [33mDirectory { name: "/jvwfwrg/jwl", depth: 2, subdirs: ["ghgf", "gqlmq", "mjm", "qgq"], local_bytes: 441653, subdir_bytes: 3936996 }[0m
+[32m2022-12-07 21:20:42.277[0m [33mDirectory { name: "/jvwfwrg/jwl/ghgf", depth: 3, subdirs: [], local_bytes: 181540, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.277[0m [33mDirectory { name: "/jvwfwrg/jwl/gqlmq", depth: 3, subdirs: ["ffhwwg", "jwl", "pqdqntr"], local_bytes: 346570, subdir_bytes: 706519 }[0m
+[32m2022-12-07 21:20:42.277[0m [33mDirectory { name: "/jvwfwrg/jwl/gqlmq/ffhwwg", depth: 4, subdirs: [], local_bytes: 264524, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.277[0m [33mDirectory { name: "/jvwfwrg/jwl/gqlmq/jwl", depth: 4, subdirs: ["zjv"], local_bytes: 179926, subdir_bytes: 102693 }[0m
+[32m2022-12-07 21:20:42.277[0m [33mDirectory { name: "/jvwfwrg/jwl/gqlmq/jwl/zjv", depth: 5, subdirs: [], local_bytes: 102693, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.277[0m [33mDirectory { name: "/jvwfwrg/jwl/gqlmq/pqdqntr", depth: 4, subdirs: [], local_bytes: 159376, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.277[0m [33mDirectory { name: "/jvwfwrg/jwl/mjm", depth: 3, subdirs: [], local_bytes: 590544, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.277[0m [33mDirectory { name: "/jvwfwrg/jwl/qgq", depth: 3, subdirs: ["dgq", "hlw", "jwl"], local_bytes: 857101, subdir_bytes: 1254722 }[0m
+[32m2022-12-07 21:20:42.278[0m [33mDirectory { name: "/jvwfwrg/jwl/qgq/dgq", depth: 4, subdirs: ["ffhwwg"], local_bytes: 363040, subdir_bytes: 541118 }[0m
+[32m2022-12-07 21:20:42.278[0m [33mDirectory { name: "/jvwfwrg/jwl/qgq/dgq/ffhwwg", depth: 5, subdirs: [], local_bytes: 541118, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.278[0m [33mDirectory { name: "/jvwfwrg/jwl/qgq/hlw", depth: 4, subdirs: [], local_bytes: 244567, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.278[0m [33mDirectory { name: "/jvwfwrg/jwl/qgq/jwl", depth: 4, subdirs: [], local_bytes: 105997, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.278[0m [33mDirectory { name: "/jvwfwrg/nmz", depth: 2, subdirs: [], local_bytes: 180419, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.278[0m [33mDirectory { name: "/jvwfwrg/tdjtv", depth: 2, subdirs: ["jvwfwrg", "mdmwf", "rlpbrq"], local_bytes: 0, subdir_bytes: 945438 }[0m
+[32m2022-12-07 21:20:42.278[0m [33mDirectory { name: "/jvwfwrg/tdjtv/jvwfwrg", depth: 3, subdirs: [], local_bytes: 35406, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.278[0m [33mDirectory { name: "/jvwfwrg/tdjtv/mdmwf", depth: 3, subdirs: ["ffhwwg"], local_bytes: 221330, subdir_bytes: 117473 }[0m
+[32m2022-12-07 21:20:42.278[0m [33mDirectory { name: "/jvwfwrg/tdjtv/mdmwf/ffhwwg", depth: 4, subdirs: [], local_bytes: 117473, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.278[0m [33mDirectory { name: "/jvwfwrg/tdjtv/rlpbrq", depth: 3, subdirs: [], local_bytes: 571229, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.278[0m [33mDirectory { name: "/jvwfwrg/wdn", depth: 2, subdirs: ["gqmghw", "ztqbhjr"], local_bytes: 783901, subdir_bytes: 1239802 }[0m
+[32m2022-12-07 21:20:42.278[0m [33mDirectory { name: "/jvwfwrg/wdn/gqmghw", depth: 3, subdirs: ["tlgbcrh"], local_bytes: 0, subdir_bytes: 281457 }[0m
+[32m2022-12-07 21:20:42.278[0m [33mDirectory { name: "/jvwfwrg/wdn/gqmghw/tlgbcrh", depth: 4, subdirs: [], local_bytes: 281457, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.278[0m [33mDirectory { name: "/jvwfwrg/wdn/ztqbhjr", depth: 3, subdirs: ["nbhq", "vfmmj"], local_bytes: 531291, subdir_bytes: 427054 }[0m
+[32m2022-12-07 21:20:42.278[0m [33mDirectory { name: "/jvwfwrg/wdn/ztqbhjr/nbhq", depth: 4, subdirs: [], local_bytes: 329280, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.278[0m [33mDirectory { name: "/jvwfwrg/wdn/ztqbhjr/vfmmj", depth: 4, subdirs: [], local_bytes: 97774, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.278[0m [33mDirectory { name: "/tzwpllhq", depth: 1, subdirs: ["jwv", "qldfrhm", "swmwvl", "wzpth"], local_bytes: 364097, subdir_bytes: 5006119 }[0m
+[32m2022-12-07 21:20:42.278[0m [33mDirectory { name: "/tzwpllhq/jwv", depth: 2, subdirs: ["bgswd", "jvwfwrg", "jwl", "mbcb", "qldfrhm"], local_bytes: 412545, subdir_bytes: 1027150 }[0m
+[32m2022-12-07 21:20:42.278[0m [33mDirectory { name: "/tzwpllhq/jwv/bgswd", depth: 3, subdirs: ["hdgt"], local_bytes: 216966, subdir_bytes: 70441 }[0m
+[32m2022-12-07 21:20:42.278[0m [33mDirectory { name: "/tzwpllhq/jwv/bgswd/hdgt", depth: 4, subdirs: [], local_bytes: 70441, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.278[0m [33mDirectory { name: "/tzwpllhq/jwv/jvwfwrg", depth: 3, subdirs: ["mctsws"], local_bytes: 69374, subdir_bytes: 257337 }[0m
+[32m2022-12-07 21:20:42.278[0m [33mDirectory { name: "/tzwpllhq/jwv/jvwfwrg/mctsws", depth: 4, subdirs: [], local_bytes: 257337, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.278[0m [33mDirectory { name: "/tzwpllhq/jwv/jwl", depth: 3, subdirs: [], local_bytes: 161061, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.278[0m [33mDirectory { name: "/tzwpllhq/jwv/mbcb", depth: 3, subdirs: ["fbhhq", "rgjwh"], local_bytes: 0, subdir_bytes: 63455 }[0m
+[32m2022-12-07 21:20:42.278[0m [33mDirectory { name: "/tzwpllhq/jwv/mbcb/fbhhq", depth: 4, subdirs: ["vnn"], local_bytes: 0, subdir_bytes: 55629 }[0m
+[32m2022-12-07 21:20:42.278[0m [33mDirectory { name: "/tzwpllhq/jwv/mbcb/fbhhq/vnn", depth: 5, subdirs: [], local_bytes: 55629, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.278[0m [33mDirectory { name: "/tzwpllhq/jwv/mbcb/rgjwh", depth: 4, subdirs: [], local_bytes: 7826, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.278[0m [33mDirectory { name: "/tzwpllhq/jwv/qldfrhm", depth: 3, subdirs: [], local_bytes: 188516, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.278[0m [33mDirectory { name: "/tzwpllhq/qldfrhm", depth: 2, subdirs: ["ffhwwg", "jwl", "tbngqwb"], local_bytes: 519172, subdir_bytes: 2587199 }[0m
+[32m2022-12-07 21:20:42.278[0m [33mDirectory { name: "/tzwpllhq/qldfrhm/ffhwwg", depth: 3, subdirs: [], local_bytes: 218749, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.278[0m [33mDirectory { name: "/tzwpllhq/qldfrhm/jwl", depth: 3, subdirs: ["nsvjcpc", "nwdvblg", "qqmb"], local_bytes: 924723, subdir_bytes: 1047321 }[0m
+[32m2022-12-07 21:20:42.278[0m [33mDirectory { name: "/tzwpllhq/qldfrhm/jwl/nsvjcpc", depth: 4, subdirs: [], local_bytes: 43660, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.278[0m [33mDirectory { name: "/tzwpllhq/qldfrhm/jwl/nwdvblg", depth: 4, subdirs: ["cltj", "fds"], local_bytes: 0, subdir_bytes: 864119 }[0m
+[32m2022-12-07 21:20:42.278[0m [33mDirectory { name: "/tzwpllhq/qldfrhm/jwl/nwdvblg/cltj", depth: 5, subdirs: [], local_bytes: 446213, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.278[0m [33mDirectory { name: "/tzwpllhq/qldfrhm/jwl/nwdvblg/fds", depth: 5, subdirs: [], local_bytes: 417906, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.278[0m [33mDirectory { name: "/tzwpllhq/qldfrhm/jwl/qqmb", depth: 4, subdirs: [], local_bytes: 139542, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.278[0m [33mDirectory { name: "/tzwpllhq/qldfrhm/tbngqwb", depth: 3, subdirs: ["jwl"], local_bytes: 350437, subdir_bytes: 45969 }[0m
+[32m2022-12-07 21:20:42.278[0m [33mDirectory { name: "/tzwpllhq/qldfrhm/tbngqwb/jwl", depth: 4, subdirs: [], local_bytes: 45969, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.278[0m [33mDirectory { name: "/tzwpllhq/swmwvl", depth: 2, subdirs: ["gsj"], local_bytes: 209063, subdir_bytes: 235867 }[0m
+[32m2022-12-07 21:20:42.278[0m [33mDirectory { name: "/tzwpllhq/swmwvl/gsj", depth: 3, subdirs: ["fpzj"], local_bytes: 152202, subdir_bytes: 83665 }[0m
+[32m2022-12-07 21:20:42.279[0m [33mDirectory { name: "/tzwpllhq/swmwvl/gsj/fpzj", depth: 4, subdirs: [], local_bytes: 83665, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.279[0m [33mDirectory { name: "/tzwpllhq/wzpth", depth: 2, subdirs: ["snhss"], local_bytes: 0, subdir_bytes: 15123 }[0m
+[32m2022-12-07 21:20:42.279[0m [33mDirectory { name: "/tzwpllhq/wzpth/snhss", depth: 3, subdirs: ["hlw"], local_bytes: 0, subdir_bytes: 15123 }[0m
+[32m2022-12-07 21:20:42.279[0m [33mDirectory { name: "/tzwpllhq/wzpth/snhss/hlw", depth: 4, subdirs: [], local_bytes: 15123, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.279[0m [33mDirectory { name: "/vglf", depth: 1, subdirs: ["gdjmt", "hnnw", "htqzfcc", "nqf", "tvmqzwmn"], local_bytes: 459112, subdir_bytes: 22968079 }[0m
+[32m2022-12-07 21:20:42.279[0m [33mDirectory { name: "/vglf/gdjmt", depth: 2, subdirs: [], local_bytes: 214742, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.279[0m [33mDirectory { name: "/vglf/hnnw", depth: 2, subdirs: ["ffhwwg", "jwl", "shdt"], local_bytes: 706066, subdir_bytes: 11523420 }[0m
+[32m2022-12-07 21:20:42.279[0m [33mDirectory { name: "/vglf/hnnw/ffhwwg", depth: 3, subdirs: ["dsqwrdnq"], local_bytes: 261158, subdir_bytes: 129823 }[0m
+[32m2022-12-07 21:20:42.279[0m [33mDirectory { name: "/vglf/hnnw/ffhwwg/dsqwrdnq", depth: 4, subdirs: [], local_bytes: 129823, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.279[0m [33mDirectory { name: "/vglf/hnnw/jwl", depth: 3, subdirs: ["bzq", "jjmndb", "pjzqjbd", "pmslv", "smfg", "wmjjwh"], local_bytes: 215828, subdir_bytes: 8987667 }[0m
+[32m2022-12-07 21:20:42.279[0m [33mDirectory { name: "/vglf/hnnw/jwl/bzq", depth: 4, subdirs: [], local_bytes: 199534, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.279[0m [33mDirectory { name: "/vglf/hnnw/jwl/jjmndb", depth: 4, subdirs: ["cbfdqtc", "gnjlnz", "hlw", "lzlwstch", "qldfrhm", "ssh", "tbdhtqn"], local_bytes: 912040, subdir_bytes: 6174435 }[0m
+[32m2022-12-07 21:20:42.279[0m [33mDirectory { name: "/vglf/hnnw/jwl/jjmndb/cbfdqtc", depth: 5, subdirs: [], local_bytes: 484200, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.279[0m [33mDirectory { name: "/vglf/hnnw/jwl/jjmndb/gnjlnz", depth: 5, subdirs: [], local_bytes: 217994, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.279[0m [33mDirectory { name: "/vglf/hnnw/jwl/jjmndb/hlw", depth: 5, subdirs: ["chgwjl", "dsz", "ttr"], local_bytes: 549828, subdir_bytes: 1157478 }[0m
+[32m2022-12-07 21:20:42.279[0m [33mDirectory { name: "/vglf/hnnw/jwl/jjmndb/hlw/chgwjl", depth: 6, subdirs: [], local_bytes: 284909, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.279[0m [33mDirectory { name: "/vglf/hnnw/jwl/jjmndb/hlw/dsz", depth: 6, subdirs: [], local_bytes: 47411, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.279[0m [33mDirectory { name: "/vglf/hnnw/jwl/jjmndb/hlw/ttr", depth: 6, subdirs: ["fgbgl", "qsflswrq"], local_bytes: 255920, subdir_bytes: 569238 }[0m
+[32m2022-12-07 21:20:42.279[0m [33mDirectory { name: "/vglf/hnnw/jwl/jjmndb/hlw/ttr/fgbgl", depth: 7, subdirs: [], local_bytes: 203288, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.279[0m [33mDirectory { name: "/vglf/hnnw/jwl/jjmndb/hlw/ttr/qsflswrq", depth: 7, subdirs: [], local_bytes: 365950, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.279[0m [33mDirectory { name: "/vglf/hnnw/jwl/jjmndb/lzlwstch", depth: 5, subdirs: ["ffhwwg", "hwmzp", "jvwfwrg", "ndpbn", "qllzhd"], local_bytes: 0, subdir_bytes: 600157 }[0m
+[32m2022-12-07 21:20:42.279[0m [33mDirectory { name: "/vglf/hnnw/jwl/jjmndb/lzlwstch/ffhwwg", depth: 6, subdirs: [], local_bytes: 51165, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.279[0m [33mDirectory { name: "/vglf/hnnw/jwl/jjmndb/lzlwstch/hwmzp", depth: 6, subdirs: [], local_bytes: 54571, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.279[0m [33mDirectory { name: "/vglf/hnnw/jwl/jjmndb/lzlwstch/jvwfwrg", depth: 6, subdirs: [], local_bytes: 130055, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.279[0m [33mDirectory { name: "/vglf/hnnw/jwl/jjmndb/lzlwstch/ndpbn", depth: 6, subdirs: [], local_bytes: 160215, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.279[0m [33mDirectory { name: "/vglf/hnnw/jwl/jjmndb/lzlwstch/qllzhd", depth: 6, subdirs: [], local_bytes: 204151, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.279[0m [33mDirectory { name: "/vglf/hnnw/jwl/jjmndb/qldfrhm", depth: 5, subdirs: ["bwcg", "ffhwwg"], local_bytes: 0, subdir_bytes: 2424427 }[0m
+[32m2022-12-07 21:20:42.279[0m [33mDirectory { name: "/vglf/hnnw/jwl/jjmndb/qldfrhm/bwcg", depth: 6, subdirs: [], local_bytes: 181254, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.279[0m [33mDirectory { name: "/vglf/hnnw/jwl/jjmndb/qldfrhm/ffhwwg", depth: 6, subdirs: ["ffhwwg", "qldfrhm"], local_bytes: 854881, subdir_bytes: 1388292 }[0m
+[32m2022-12-07 21:20:42.279[0m [33mDirectory { name: "/vglf/hnnw/jwl/jjmndb/qldfrhm/ffhwwg/ffhwwg", depth: 7, subdirs: [], local_bytes: 178372, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.279[0m [33mDirectory { name: "/vglf/hnnw/jwl/jjmndb/qldfrhm/ffhwwg/qldfrhm", depth: 7, subdirs: ["stpvb", "zldj"], local_bytes: 857390, subdir_bytes: 352530 }[0m
+[32m2022-12-07 21:20:42.279[0m [33mDirectory { name: "/vglf/hnnw/jwl/jjmndb/qldfrhm/ffhwwg/qldfrhm/stpvb", depth: 8, subdirs: [], local_bytes: 221672, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.279[0m [33mDirectory { name: "/vglf/hnnw/jwl/jjmndb/qldfrhm/ffhwwg/qldfrhm/zldj", depth: 8, subdirs: ["jwl"], local_bytes: 0, subdir_bytes: 130858 }[0m
+[32m2022-12-07 21:20:42.279[0m [33mDirectory { name: "/vglf/hnnw/jwl/jjmndb/qldfrhm/ffhwwg/qldfrhm/zldj/jwl", depth: 9, subdirs: [], local_bytes: 130858, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.279[0m [33mDirectory { name: "/vglf/hnnw/jwl/jjmndb/ssh", depth: 5, subdirs: ["jvwfwrg"], local_bytes: 136558, subdir_bytes: 212356 }[0m
+[32m2022-12-07 21:20:42.279[0m [33mDirectory { name: "/vglf/hnnw/jwl/jjmndb/ssh/jvwfwrg", depth: 6, subdirs: [], local_bytes: 212356, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.279[0m [33mDirectory { name: "/vglf/hnnw/jwl/jjmndb/tbdhtqn", depth: 5, subdirs: ["rmrwm"], local_bytes: 272591, subdir_bytes: 118846 }[0m
+[32m2022-12-07 21:20:42.279[0m [33mDirectory { name: "/vglf/hnnw/jwl/jjmndb/tbdhtqn/rmrwm", depth: 6, subdirs: [], local_bytes: 118846, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.279[0m [33mDirectory { name: "/vglf/hnnw/jwl/pjzqjbd", depth: 4, subdirs: [], local_bytes: 348414, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.279[0m [33mDirectory { name: "/vglf/hnnw/jwl/pmslv", depth: 4, subdirs: [], local_bytes: 82637, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.279[0m [33mDirectory { name: "/vglf/hnnw/jwl/smfg", depth: 4, subdirs: ["gfbpcr", "sghtlzqv"], local_bytes: 0, subdir_bytes: 913784 }[0m
+[32m2022-12-07 21:20:42.279[0m [33mDirectory { name: "/vglf/hnnw/jwl/smfg/gfbpcr", depth: 5, subdirs: [], local_bytes: 23958, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.279[0m [33mDirectory { name: "/vglf/hnnw/jwl/smfg/sghtlzqv", depth: 5, subdirs: [], local_bytes: 889826, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.280[0m [33mDirectory { name: "/vglf/hnnw/jwl/wmjjwh", depth: 4, subdirs: [], local_bytes: 356823, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.280[0m [33mDirectory { name: "/vglf/hnnw/shdt", depth: 3, subdirs: ["mrgppm", "mwvgmjmb", "nsbrbcq"], local_bytes: 815758, subdir_bytes: 1113186 }[0m
+[32m2022-12-07 21:20:42.280[0m [33mDirectory { name: "/vglf/hnnw/shdt/mrgppm", depth: 4, subdirs: ["ghzhzzp", "jwl", "tgpm"], local_bytes: 0, subdir_bytes: 845246 }[0m
+[32m2022-12-07 21:20:42.280[0m [33mDirectory { name: "/vglf/hnnw/shdt/mrgppm/ghzhzzp", depth: 5, subdirs: ["bqplqq", "vtqgwsj"], local_bytes: 0, subdir_bytes: 494240 }[0m
+[32m2022-12-07 21:20:42.280[0m [33mDirectory { name: "/vglf/hnnw/shdt/mrgppm/ghzhzzp/bqplqq", depth: 6, subdirs: [], local_bytes: 234131, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.280[0m [33mDirectory { name: "/vglf/hnnw/shdt/mrgppm/ghzhzzp/vtqgwsj", depth: 6, subdirs: [], local_bytes: 260109, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.280[0m [33mDirectory { name: "/vglf/hnnw/shdt/mrgppm/jwl", depth: 5, subdirs: [], local_bytes: 112258, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.280[0m [33mDirectory { name: "/vglf/hnnw/shdt/mrgppm/tgpm", depth: 5, subdirs: ["hlw"], local_bytes: 167788, subdir_bytes: 70960 }[0m
+[32m2022-12-07 21:20:42.280[0m [33mDirectory { name: "/vglf/hnnw/shdt/mrgppm/tgpm/hlw", depth: 6, subdirs: [], local_bytes: 70960, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.280[0m [33mDirectory { name: "/vglf/hnnw/shdt/mwvgmjmb", depth: 4, subdirs: [], local_bytes: 142087, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.280[0m [33mDirectory { name: "/vglf/hnnw/shdt/nsbrbcq", depth: 4, subdirs: ["hljjp"], local_bytes: 0, subdir_bytes: 125853 }[0m
+[32m2022-12-07 21:20:42.280[0m [33mDirectory { name: "/vglf/hnnw/shdt/nsbrbcq/hljjp", depth: 5, subdirs: [], local_bytes: 125853, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.280[0m [33mDirectory { name: "/vglf/htqzfcc", depth: 2, subdirs: ["cqs", "dsnpcnv", "ffhwwg", "mftm", "mmgn", "qqvzvw", "vtf", "wrbwbdt"], local_bytes: 349380, subdir_bytes: 8969881 }[0m
+[32m2022-12-07 21:20:42.280[0m [33mDirectory { name: "/vglf/htqzfcc/cqs", depth: 3, subdirs: [], local_bytes: 268481, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.280[0m [33mDirectory { name: "/vglf/htqzfcc/dsnpcnv", depth: 3, subdirs: [], local_bytes: 115805, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.280[0m [33mDirectory { name: "/vglf/htqzfcc/ffhwwg", depth: 3, subdirs: ["qldfrhm", "wjj"], local_bytes: 0, subdir_bytes: 1778764 }[0m
+[32m2022-12-07 21:20:42.280[0m [33mDirectory { name: "/vglf/htqzfcc/ffhwwg/qldfrhm", depth: 4, subdirs: ["rsztzjcm"], local_bytes: 646067, subdir_bytes: 879834 }[0m
+[32m2022-12-07 21:20:42.280[0m [33mDirectory { name: "/vglf/htqzfcc/ffhwwg/qldfrhm/rsztzjcm", depth: 5, subdirs: ["jhdcdm"], local_bytes: 667373, subdir_bytes: 212461 }[0m
+[32m2022-12-07 21:20:42.280[0m [33mDirectory { name: "/vglf/htqzfcc/ffhwwg/qldfrhm/rsztzjcm/jhdcdm", depth: 6, subdirs: [], local_bytes: 212461, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.280[0m [33mDirectory { name: "/vglf/htqzfcc/ffhwwg/wjj", depth: 4, subdirs: [], local_bytes: 252863, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.280[0m [33mDirectory { name: "/vglf/htqzfcc/mftm", depth: 3, subdirs: [], local_bytes: 278389, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.280[0m [33mDirectory { name: "/vglf/htqzfcc/mmgn", depth: 3, subdirs: [], local_bytes: 28122, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.280[0m [33mDirectory { name: "/vglf/htqzfcc/qqvzvw", depth: 3, subdirs: ["mjw", "qldfrhm", "zbmpdwtc"], local_bytes: 0, subdir_bytes: 3635989 }[0m
+[32m2022-12-07 21:20:42.280[0m [33mDirectory { name: "/vglf/htqzfcc/qqvzvw/mjw", depth: 4, subdirs: ["cvn", "dlgzc"], local_bytes: 470676, subdir_bytes: 276262 }[0m
+[32m2022-12-07 21:20:42.280[0m [33mDirectory { name: "/vglf/htqzfcc/qqvzvw/mjw/cvn", depth: 5, subdirs: [], local_bytes: 146142, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.280[0m [33mDirectory { name: "/vglf/htqzfcc/qqvzvw/mjw/dlgzc", depth: 5, subdirs: [], local_bytes: 130120, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.280[0m [33mDirectory { name: "/vglf/htqzfcc/qqvzvw/qldfrhm", depth: 4, subdirs: ["czwwzj", "mjpzgbww", "rzqj"], local_bytes: 833330, subdir_bytes: 1630574 }[0m
+[32m2022-12-07 21:20:42.280[0m [33mDirectory { name: "/vglf/htqzfcc/qqvzvw/qldfrhm/czwwzj", depth: 5, subdirs: ["cpwwqrph", "snl"], local_bytes: 103778, subdir_bytes: 918540 }[0m
+[32m2022-12-07 21:20:42.280[0m [33mDirectory { name: "/vglf/htqzfcc/qqvzvw/qldfrhm/czwwzj/cpwwqrph", depth: 6, subdirs: ["jvwfwrg"], local_bytes: 0, subdir_bytes: 176717 }[0m
+[32m2022-12-07 21:20:42.280[0m [33mDirectory { name: "/vglf/htqzfcc/qqvzvw/qldfrhm/czwwzj/cpwwqrph/jvwfwrg", depth: 7, subdirs: [], local_bytes: 176717, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.280[0m [33mDirectory { name: "/vglf/htqzfcc/qqvzvw/qldfrhm/czwwzj/snl", depth: 6, subdirs: ["btngcvt", "ffhwwg"], local_bytes: 273660, subdir_bytes: 468163 }[0m
+[32m2022-12-07 21:20:42.280[0m [33mDirectory { name: "/vglf/htqzfcc/qqvzvw/qldfrhm/czwwzj/snl/btngcvt", depth: 7, subdirs: ["tgcqmbrn"], local_bytes: 172859, subdir_bytes: 149905 }[0m
+[32m2022-12-07 21:20:42.280[0m [33mDirectory { name: "/vglf/htqzfcc/qqvzvw/qldfrhm/czwwzj/snl/btngcvt/tgcqmbrn", depth: 8, subdirs: [], local_bytes: 149905, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.280[0m [33mDirectory { name: "/vglf/htqzfcc/qqvzvw/qldfrhm/czwwzj/snl/ffhwwg", depth: 7, subdirs: [], local_bytes: 145399, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.280[0m [33mDirectory { name: "/vglf/htqzfcc/qqvzvw/qldfrhm/mjpzgbww", depth: 5, subdirs: [], local_bytes: 204422, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.280[0m [33mDirectory { name: "/vglf/htqzfcc/qqvzvw/qldfrhm/rzqj", depth: 5, subdirs: ["jmjszd"], local_bytes: 321863, subdir_bytes: 81971 }[0m
+[32m2022-12-07 21:20:42.280[0m [33mDirectory { name: "/vglf/htqzfcc/qqvzvw/qldfrhm/rzqj/jmjszd", depth: 6, subdirs: [], local_bytes: 81971, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.280[0m [33mDirectory { name: "/vglf/htqzfcc/qqvzvw/zbmpdwtc", depth: 4, subdirs: [], local_bytes: 425147, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.281[0m [33mDirectory { name: "/vglf/htqzfcc/vtf", depth: 3, subdirs: [], local_bytes: 2562, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.281[0m [33mDirectory { name: "/vglf/htqzfcc/wrbwbdt", depth: 3, subdirs: ["brzwbmc"], local_bytes: 29261, subdir_bytes: 2832508 }[0m
+[32m2022-12-07 21:20:42.281[0m [33mDirectory { name: "/vglf/htqzfcc/wrbwbdt/brzwbmc", depth: 4, subdirs: ["ggh", "jwl", "thm"], local_bytes: 736431, subdir_bytes: 2096077 }[0m
+[32m2022-12-07 21:20:42.281[0m [33mDirectory { name: "/vglf/htqzfcc/wrbwbdt/brzwbmc/ggh", depth: 5, subdirs: ["cqrmsltg"], local_bytes: 18724, subdir_bytes: 1039264 }[0m
+[32m2022-12-07 21:20:42.281[0m [33mDirectory { name: "/vglf/htqzfcc/wrbwbdt/brzwbmc/ggh/cqrmsltg", depth: 6, subdirs: ["ffhwwg", "jvwfwrg", "tcjr"], local_bytes: 41263, subdir_bytes: 998001 }[0m
+[32m2022-12-07 21:20:42.281[0m [33mDirectory { name: "/vglf/htqzfcc/wrbwbdt/brzwbmc/ggh/cqrmsltg/ffhwwg", depth: 7, subdirs: ["hlw"], local_bytes: 0, subdir_bytes: 139875 }[0m
+[32m2022-12-07 21:20:42.281[0m [33mDirectory { name: "/vglf/htqzfcc/wrbwbdt/brzwbmc/ggh/cqrmsltg/ffhwwg/hlw", depth: 8, subdirs: [], local_bytes: 139875, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.281[0m [33mDirectory { name: "/vglf/htqzfcc/wrbwbdt/brzwbmc/ggh/cqrmsltg/jvwfwrg", depth: 7, subdirs: [], local_bytes: 141078, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.281[0m [33mDirectory { name: "/vglf/htqzfcc/wrbwbdt/brzwbmc/ggh/cqrmsltg/tcjr", depth: 7, subdirs: ["hnngpdc"], local_bytes: 473845, subdir_bytes: 243203 }[0m
+[32m2022-12-07 21:20:42.281[0m [33mDirectory { name: "/vglf/htqzfcc/wrbwbdt/brzwbmc/ggh/cqrmsltg/tcjr/hnngpdc", depth: 8, subdirs: [], local_bytes: 243203, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.281[0m [33mDirectory { name: "/vglf/htqzfcc/wrbwbdt/brzwbmc/jwl", depth: 5, subdirs: [], local_bytes: 62087, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.281[0m [33mDirectory { name: "/vglf/htqzfcc/wrbwbdt/brzwbmc/thm", depth: 5, subdirs: ["jvwfwrg"], local_bytes: 395858, subdir_bytes: 580144 }[0m
+[32m2022-12-07 21:20:42.281[0m [33mDirectory { name: "/vglf/htqzfcc/wrbwbdt/brzwbmc/thm/jvwfwrg", depth: 6, subdirs: ["ffhwwg", "jgvf"], local_bytes: 170488, subdir_bytes: 409656 }[0m
+[32m2022-12-07 21:20:42.281[0m [33mDirectory { name: "/vglf/htqzfcc/wrbwbdt/brzwbmc/thm/jvwfwrg/ffhwwg", depth: 7, subdirs: [], local_bytes: 258985, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.281[0m [33mDirectory { name: "/vglf/htqzfcc/wrbwbdt/brzwbmc/thm/jvwfwrg/jgvf", depth: 7, subdirs: [], local_bytes: 150671, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.281[0m [33mDirectory { name: "/vglf/nqf", depth: 2, subdirs: ["rglrpqd"], local_bytes: 0, subdir_bytes: 500913 }[0m
+[32m2022-12-07 21:20:42.281[0m [33mDirectory { name: "/vglf/nqf/rglrpqd", depth: 3, subdirs: [], local_bytes: 500913, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.281[0m [33mDirectory { name: "/vglf/tvmqzwmn", depth: 2, subdirs: [], local_bytes: 703677, subdir_bytes: 0 }[0m
+[32m2022-12-07 21:20:42.281[0m [33mTotal of directories <=100k: 1182909[0m
+[32m2022-12-07 21:20:42.281[0m [33mTime taken: 21.5415ms[0m
